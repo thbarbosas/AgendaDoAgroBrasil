@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-04T13:38:12-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-09T07:38:05-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -28,6 +28,27 @@
    "lon": -53.46
   },
   {
+   "id": "12º-coplacampo-2026",
+   "nome": "12º Coplacampo",
+   "tipo": "Feira",
+   "segmentos": [
+    "Cana e bioenergia",
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2026-02-23",
+   "fim": "2026-02-27",
+   "cidade": "Piracicaba",
+   "uf": "SP",
+   "local": "Rodovia do Açúcar SP-308, km 157 (Bairro Taquaral)",
+   "preco": "Entrada gratuita com inscrição antecipada",
+   "gratuito": true,
+   "link": "https://inscricoes.eventos.site/Coplacampo",
+   "organizador": "Coplacana",
+   "lat": -22.73,
+   "lon": -47.65
+  },
+  {
    "id": "lacte-2026",
    "nome": "LACTE 2026",
    "tipo": "Congresso",
@@ -44,6 +65,46 @@
    "gratuito": false,
    "link": "https://www.google.com/search?q=LACTE+2026+São+Paulo",
    "organizador": "",
+   "lat": -23.55,
+   "lon": -46.63
+  },
+  {
+   "id": "36ª-abertura-oficial-da-colheita-do-arroz-2026",
+   "nome": "36ª Abertura Oficial da Colheita do Arroz e Grãos em Terras Baixas",
+   "tipo": "Dia de campo",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2026-02-24",
+   "fim": "2026-02-26",
+   "cidade": "Capão do Leão",
+   "uf": "RS",
+   "local": "Estação Experimental Terras Baixas (Embrapa Clima Temperado)",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.agrolink.com.br/eventos/36--abertura-oficial-da-colheita-do-arroz-e-graos",
+   "organizador": "Federarroz, Embrapa e Senar-RS",
+   "lat": -31.76,
+   "lon": -52.48
+  },
+  {
+   "id": "ii-inovabio-2026",
+   "nome": "II INOVABIO – Encontro sobre Bioinsumos Inovadores",
+   "tipo": "Encontro",
+   "segmentos": [
+    "Grãos",
+    "Hortifrúti e flores"
+   ],
+   "inicio": "2026-02-25",
+   "fim": "2026-02-27",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Instituto Biológico",
+   "preco": "Inscrição paga (vagas limitadas)",
+   "gratuito": false,
+   "link": "https://fealq.org.br/eventos/ii-inovabio-encontro-sobre-bioinsumos-inovadores/",
+   "organizador": "Fealq",
    "lat": -23.55,
    "lon": -46.63
   },
@@ -68,6 +129,25 @@
    "lon": -44.16
   },
   {
+   "id": "congresso-apa-ovos-2026",
+   "nome": "23º Congresso APA de Produção e Comercialização de Ovos",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Aves e suínos"
+   ],
+   "inicio": "2026-03-09",
+   "fim": "2026-03-12",
+   "cidade": "Limeira",
+   "uf": "SP",
+   "local": "Zarzuela Eventos",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "http://www.congressodeovos.com.br",
+   "organizador": "Associação Paulista de Avicultura (APA)",
+   "lat": -22.56,
+   "lon": -47.4
+  },
+  {
    "id": "expodireto-cotrijal-2026",
    "nome": "Expodireto Cotrijal 2026",
    "tipo": "Feira",
@@ -87,25 +167,6 @@
    "organizador": "Cotrijal",
    "lat": -28.46,
    "lon": -52.82
-  },
-  {
-   "id": "congresso-apa-ovos-2026",
-   "nome": "23º Congresso APA de Produção e Comercialização de Ovos",
-   "tipo": "Congresso",
-   "segmentos": [
-    "Aves e suínos"
-   ],
-   "inicio": "2026-03-09",
-   "fim": "2026-03-12",
-   "cidade": "Limeira",
-   "uf": "SP",
-   "local": "Zarzuela Eventos",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "http://www.congressodeovos.com.br",
-   "organizador": "Associação Paulista de Avicultura (APA)",
-   "lat": -22.56,
-   "lon": -47.4
   },
   {
    "id": "farm-show-2026",
@@ -128,26 +189,6 @@
    "lon": -54.3
   },
   {
-   "id": "show-safra-br-163-2026",
-   "nome": "Show Safra BR-163 2026",
-   "tipo": "Feira",
-   "segmentos": [
-    "Grãos",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2026-03-23",
-   "fim": "2026-03-27",
-   "cidade": "Lucas do Rio Verde",
-   "uf": "MT",
-   "local": "Centro Tecnológico da Fundação Rio Verde",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://www.google.com/search?q=Show+Safra+2026+Lucas+do+Rio+Verde",
-   "organizador": "Fundação Rio Verde",
-   "lat": -13.05,
-   "lon": -55.91
-  },
-  {
    "id": "femec-2026",
    "nome": "Femec 2026",
    "tipo": "Feira",
@@ -167,6 +208,26 @@
    "organizador": "",
    "lat": -18.92,
    "lon": -48.28
+  },
+  {
+   "id": "show-safra-br-163-2026",
+   "nome": "Show Safra BR-163 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2026-03-23",
+   "fim": "2026-03-27",
+   "cidade": "Lucas do Rio Verde",
+   "uf": "MT",
+   "local": "Centro Tecnológico da Fundação Rio Verde",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.google.com/search?q=Show+Safra+2026+Lucas+do+Rio+Verde",
+   "organizador": "Fundação Rio Verde",
+   "lat": -13.05,
+   "lon": -55.91
   },
   {
    "id": "expoagro-afubra-2026",
@@ -230,6 +291,26 @@
    "lon": -52.62
   },
   {
+   "id": "86ª-expogrande-2026",
+   "nome": "86ª Expogrande",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Pecuária de corte",
+    "Grãos"
+   ],
+   "inicio": "2026-04-09",
+   "fim": "2026-04-19",
+   "cidade": "Campo Grande",
+   "uf": "MS",
+   "local": "Parque de Exposições Laucídio Coelho",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://acritica.net/cidades/expogrande-2026-montagem-avanca-no-parque-laucidio-coelho/",
+   "organizador": "Acrissul",
+   "lat": -20.45,
+   "lon": -54.62
+  },
+  {
    "id": "expolondrina-2026",
    "nome": "ExpoLondrina 2026",
    "tipo": "Exposição",
@@ -245,7 +326,7 @@
    "local": "Parque Governador Ney Braga",
    "preco": "Consulte no site oficial",
    "gratuito": false,
-   "link": "https://www.google.com/search?q=ExpoLondrina+2026",
+   "link": "https://expolondrina.com.br/",
    "organizador": "Sociedade Rural do Paraná",
    "lat": -23.31,
    "lon": -51.16
@@ -373,24 +454,24 @@
    "lon": -46.04
   },
   {
-   "id": "fenagra-2026",
-   "nome": "Fenagra 2026",
-   "tipo": "Feira",
+   "id": "expoalagoas-genetica-2026",
+   "nome": "Expoalagoas Genética 2026",
+   "tipo": "Exposição",
    "segmentos": [
-    "Aves e suínos",
-    "Pecuária de corte"
+    "Pecuária de corte",
+    "Leite"
    ],
-   "inicio": "2026-05-12",
-   "fim": "2026-05-14",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "local": "Distrito Anhembi",
-   "preco": "Consulte no site oficial",
+   "inicio": "2026-05-11",
+   "fim": "2026-05-17",
+   "cidade": "Maceió",
+   "uf": "AL",
+   "local": "Parque da Pecuária",
+   "preco": "Consulte o organizador",
    "gratuito": false,
-   "link": "https://www.google.com/search?q=Fenagra+2026+Anhembi",
-   "organizador": "",
-   "lat": -23.55,
-   "lon": -46.63
+   "link": "https://www.gazetadealagoas.com.br/rural/861899/aca-divulga-calendario-de-2026-das-grandes-exposicoes-agropecuarias-de-alagoas",
+   "organizador": "Associação dos Criadores de Alagoas (ACA)",
+   "lat": -9.67,
+   "lon": -35.73
   },
   {
    "id": "agrotins-2026",
@@ -414,24 +495,83 @@
    "lon": -48.33
   },
   {
-   "id": "showtec-2026",
-   "nome": "Showtec 2026",
+   "id": "fenagra-2026",
+   "nome": "Fenagra 2026",
    "tipo": "Feira",
    "segmentos": [
-    "Grãos",
-    "Máquinas e tecnologia"
+    "Aves e suínos",
+    "Pecuária de corte"
    ],
-   "inicio": "2026-05-19",
-   "fim": "2026-05-21",
-   "cidade": "Maracaju",
-   "uf": "MS",
-   "local": "Fundação MS",
+   "inicio": "2026-05-12",
+   "fim": "2026-05-14",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Distrito Anhembi",
    "preco": "Consulte no site oficial",
    "gratuito": false,
-   "link": "https://www.google.com/search?q=Showtec+2026+Maracaju",
-   "organizador": "Fundação MS",
-   "lat": -21.61,
-   "lon": -55.17
+   "link": "https://www.fenagra.com.br/",
+   "organizador": "DG Fenagra Eventos e Editora (Editora Stilo e IEG Brasil)",
+   "lat": -23.55,
+   "lon": -46.63
+  },
+  {
+   "id": "i-simposio-aves-nordeste-2026",
+   "nome": "I Simpósio Aves Nordeste 2026",
+   "tipo": "Simpósio",
+   "segmentos": [
+    "Aves e suínos"
+   ],
+   "inicio": "2026-05-12",
+   "fim": "2026-05-13",
+   "cidade": "Feira de Santana",
+   "uf": "BA",
+   "local": "Centro de Excelência em Zootecnia (CEZ/Senar)",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.ba.gov.br/seagri/noticias/2026-05/1000318/seagri-destaca-crescimento-da-avicultura-baiana-em-abertura-do-i-simposio",
+   "organizador": "Associação Baiana de Avicultura (ABA)",
+   "lat": -12.27,
+   "lon": -38.97
+  },
+  {
+   "id": "fenasul-expoleite-2026",
+   "nome": "Fenasul Expoleite 2026",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Leite",
+    "Pecuária de corte"
+   ],
+   "inicio": "2026-05-13",
+   "fim": "2026-05-17",
+   "cidade": "Esteio",
+   "uf": "RS",
+   "local": "Parque de Exposições Assis Brasil",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.agrolink.com.br/eventos/fenasul-e-expoleite-2026",
+   "organizador": "Governo do RS (Seapi)",
+   "lat": -29.85,
+   "lon": -51.18
+  },
+  {
+   "id": "acricorte-2026",
+   "nome": "Acricorte 2026",
+   "tipo": "Encontro",
+   "segmentos": [
+    "Pecuária de corte",
+    "Gestão e mercado"
+   ],
+   "inicio": "2026-05-14",
+   "fim": "2026-05-15",
+   "cidade": "Cuiabá",
+   "uf": "MT",
+   "local": "Centro de Eventos do Pantanal",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://cnabrasil.org.br/noticias/sistema-famato-senar-promove-acoes-voltadas-ao-produtor-rural-durante-a-acricorte-2026",
+   "organizador": "Acrimat",
+   "lat": -15.6,
+   "lon": -56.1
   },
   {
    "id": "agrobrasília-2026",
@@ -453,6 +593,26 @@
    "organizador": "Coopa-DF",
    "lat": -15.79,
    "lon": -47.88
+  },
+  {
+   "id": "showtec-2026",
+   "nome": "Showtec 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2026-05-19",
+   "fim": "2026-05-21",
+   "cidade": "Maracaju",
+   "uf": "MS",
+   "local": "Fundação MS",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.google.com/search?q=Showtec+2026+Maracaju",
+   "organizador": "Fundação MS",
+   "lat": -21.61,
+   "lon": -55.17
   },
   {
    "nome": "Agro Summit 2026",
@@ -518,6 +678,44 @@
    "lon": -45.51
   },
   {
+   "id": "xi-simpósio-sul-de-pós-colheita-de-grãos-2026",
+   "nome": "XI Simpósio Sul de Pós-colheita de Grãos",
+   "tipo": "Simpósio",
+   "segmentos": [
+    "Grãos"
+   ],
+   "inicio": "2026-06-01",
+   "fim": "2026-06-03",
+   "cidade": "Chapecó",
+   "uf": "SC",
+   "local": "Chapecó (SC)",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://www.abrapos.org.br/",
+   "organizador": "Abrapós",
+   "lat": -27.1,
+   "lon": -52.62
+  },
+  {
+   "id": "26ª-fenarroz-2026",
+   "nome": "26ª Feira Nacional do Arroz (Fenarroz)",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos"
+   ],
+   "inicio": "2026-06-02",
+   "fim": "2026-06-07",
+   "cidade": "Cachoeira do Sul",
+   "uf": "RS",
+   "local": "Cachoeira do Sul (RS)",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://www.fenarroz.com.br",
+   "organizador": "Comissão organizadora da Fenarroz",
+   "lat": -30.04,
+   "lon": -52.89
+  },
+  {
    "id": "megaleite-2026",
    "nome": "Megaleite 2026",
    "tipo": "Feira",
@@ -558,6 +756,25 @@
    "lon": -45.79
   },
   {
+   "id": "aquishow-brasil-2026",
+   "nome": "Aquishow Brasil 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Pescado"
+   ],
+   "inicio": "2026-06-09",
+   "fim": "2026-06-11",
+   "cidade": "Uberlândia",
+   "uf": "MG",
+   "local": "Uberlândia (MG)",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://aquishowbrasil.com.br/",
+   "organizador": "Aquishow Brasil",
+   "lat": -18.92,
+   "lon": -48.28
+  },
+  {
    "id": "31ª-hortitec",
    "nome": "31ª Hortitec",
    "tipo": "Feira",
@@ -576,6 +793,64 @@
    "organizador": "RBB Eventos",
    "lat": -22.63,
    "lon": -47.06
+  },
+  {
+   "id": "feicorte-2026",
+   "nome": "FEICORTE 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Pecuária de corte"
+   ],
+   "inicio": "2026-06-23",
+   "fim": "2026-06-26",
+   "cidade": "Presidente Prudente",
+   "uf": "SP",
+   "local": "Presidente Prudente (SP)",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://www.feicortesp.com/",
+   "organizador": "Feicorte",
+   "lat": -22.12,
+   "lon": -51.39
+  },
+  {
+   "id": "bom-jesus-agrotec-show-2026",
+   "nome": "Bom Jesus Agrotec Show 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2026-06-24",
+   "fim": "2026-06-27",
+   "cidade": "Bom Jesus",
+   "uf": "PI",
+   "local": "Bom Jesus (PI), Vale do Gurguéia",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.agrolink.com.br/eventos/bom-jesus-agrotec-show-2026",
+   "organizador": "Bom Jesus Agrotec Show",
+   "lat": -9.07,
+   "lon": -44.36
+  },
+  {
+   "id": "expo-mar-2026",
+   "nome": "Expo Mar 2026 – Congresso e Feira de Tecnologia e Negócios do Pescado",
+   "tipo": "Feira",
+   "segmentos": [
+    "Pescado"
+   ],
+   "inicio": "2026-06-24",
+   "fim": "2026-06-26",
+   "cidade": "Itajaí",
+   "uf": "SC",
+   "local": "Centreventos Governador Luiz Henrique da Silveira",
+   "preco": "Entrada gratuita",
+   "gratuito": true,
+   "link": "https://expomar.com.br/",
+   "organizador": "IFC, com Prefeitura de Itajaí, Sindipi e Univali",
+   "lat": -26.91,
+   "lon": -48.66
   },
   {
    "id": "pec-brasil-2026",
@@ -597,6 +872,26 @@
    "organizador": "",
    "lat": -3.73,
    "lon": -38.52
+  },
+  {
+   "id": "fenagen-promebo-2026",
+   "nome": "Fenagen Promebo 2026",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Pecuária de corte",
+    "Leite"
+   ],
+   "inicio": "2026-07-01",
+   "fim": "2026-07-04",
+   "cidade": "Pelotas",
+   "uf": "RS",
+   "local": "Associação Rural de Pelotas",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.agrolink.com.br/eventos/fenagen-promebo-2026",
+   "organizador": "Promebo",
+   "lat": -31.77,
+   "lon": -52.34
   },
   {
    "id": "suinfair-2026",
@@ -637,23 +932,24 @@
    "lon": -49.83
   },
   {
-   "id": "milkshow-2026",
-   "nome": "MilkShow 2026",
+   "id": "pantanal-tech-2026",
+   "nome": "Pantanal Tech MS 2026",
    "tipo": "Feira",
    "segmentos": [
-    "Leite"
+    "Pecuária de corte",
+    "Máquinas e tecnologia"
    ],
-   "inicio": "2026-07-07",
-   "fim": "2026-07-11",
-   "cidade": "Patos de Minas",
-   "uf": "MG",
-   "local": "A confirmar no site",
+   "inicio": "2026-07-03",
+   "fim": "2026-07-05",
+   "cidade": "Aquidauana",
+   "uf": "MS",
+   "local": "Fazenda da UEMS de Aquidauana",
    "preco": "Consulte no site oficial",
    "gratuito": false,
-   "link": "https://www.google.com/search?q=MilkShow+2026+Patos+de+Minas",
-   "organizador": "",
-   "lat": -18.58,
-   "lon": -46.52
+   "link": "https://pantanaltechms.com.br/",
+   "organizador": "Governo de MS e parceiros",
+   "lat": -20.47,
+   "lon": -55.79
   },
   {
    "id": "20º-encontro-nacional-do-sistema-plantio-direto",
@@ -673,6 +969,25 @@
    "organizador": "Federação Brasileira do Sistema Plantio Direto (FEBRAPDP)",
    "lat": -15.79,
    "lon": -47.88
+  },
+  {
+   "id": "milkshow-2026",
+   "nome": "MilkShow 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Leite"
+   ],
+   "inicio": "2026-07-07",
+   "fim": "2026-07-11",
+   "cidade": "Patos de Minas",
+   "uf": "MG",
+   "local": "A confirmar no site",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.google.com/search?q=MilkShow+2026+Patos+de+Minas",
+   "organizador": "",
+   "lat": -18.58,
+   "lon": -46.52
   },
   {
    "id": "conbap-icpa-2026",
@@ -776,6 +1091,27 @@
    "lon": -46.63
   },
   {
+   "id": "agropec-2026",
+   "nome": "59ª Agropec – Feira Agropecuária de Paragominas",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Pecuária de corte",
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2026-08-08",
+   "fim": "2026-08-16",
+   "cidade": "Paragominas",
+   "uf": "PA",
+   "local": "Parque de Exposições Amílcar Tocantins",
+   "preco": "Entrada gratuita",
+   "gratuito": true,
+   "link": "https://www.noticiasagricolas.com.br/noticia/425692",
+   "organizador": "Sindicato dos Produtores Rurais de Paragominas (SPRP)",
+   "lat": -2.99,
+   "lon": -47.35
+  },
+  {
    "id": "25º-congresso-brasileiro-do-agronegócio-2026",
    "nome": "25º Congresso Brasileiro do Agronegócio (CBA)",
    "tipo": "Congresso",
@@ -793,6 +1129,25 @@
    "organizador": "ABAG e B3",
    "lat": -23.55,
    "lon": -46.63
+  },
+  {
+   "id": "18º-simpósio-brasil-sul-de-suinocultura",
+   "nome": "18º Simpósio Brasil Sul de Suinocultura",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Aves e suínos"
+   ],
+   "inicio": "2026-08-11",
+   "fim": "2026-08-13",
+   "cidade": "Chapecó",
+   "uf": "SC",
+   "local": "Centro de Eventos Plínio Arlindo de Nes",
+   "preco": "Inscrição paga",
+   "gratuito": false,
+   "link": "https://feedfood.com.br/eventos/sbss-2026/",
+   "organizador": "Nucleovet",
+   "lat": -27.1,
+   "lon": -52.62
   },
   {
    "id": "congresso-andav-2026",
@@ -833,25 +1188,6 @@
    "organizador": "RX",
    "lat": -21.14,
    "lon": -47.99
-  },
-  {
-   "id": "18º-simpósio-brasil-sul-de-suinocultura",
-   "nome": "18º Simpósio Brasil Sul de Suinocultura",
-   "tipo": "Congresso",
-   "segmentos": [
-    "Aves e suínos"
-   ],
-   "inicio": "2026-08-11",
-   "fim": "2026-08-13",
-   "cidade": "Chapecó",
-   "uf": "SC",
-   "local": "Centro de Eventos Plínio Arlindo de Nes",
-   "preco": "Inscrição paga",
-   "gratuito": false,
-   "link": "https://feedfood.com.br/eventos/sbss-2026/",
-   "organizador": "Nucleovet",
-   "lat": -27.1,
-   "lon": -52.62
   },
   {
    "id": "ix-conferência-brasileira-de-pós-colheita-2026",
@@ -913,6 +1249,44 @@
    "lon": -49.25
   },
   {
+   "id": "23-congresso-brasileiro-de-sementes-2026",
+   "nome": "23º Congresso Brasileiro de Sementes (CBSementes 2026)",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Grãos"
+   ],
+   "inicio": "2026-08-25",
+   "fim": "2026-08-28",
+   "cidade": "Foz do Iguaçu",
+   "uf": "PR",
+   "local": "Rafain Palace Hotel & Convention",
+   "preco": "Inscrições pagas",
+   "gratuito": false,
+   "link": "https://www.revistacultivar.com.br/eventos/congresso-brasileiro-de-sementes-2026",
+   "organizador": "Abrates",
+   "lat": -25.55,
+   "lon": -54.59
+  },
+  {
+   "id": "2ª-expocacau-2026",
+   "nome": "2ª ExpoCacau 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Gestão e mercado"
+   ],
+   "inicio": "2026-08-25",
+   "fim": "2026-08-27",
+   "cidade": "Ilhéus",
+   "uf": "BA",
+   "local": "Ilhéus (BA)",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://expocacau.com.br/",
+   "organizador": "ExpoCacau",
+   "lat": -14.79,
+   "lon": -39.05
+  },
+  {
    "id": "expointer-2026",
    "nome": "Expointer 2026",
    "tipo": "Exposição",
@@ -935,6 +1309,25 @@
    "lon": -51.18
   },
   {
+   "id": "20º-grande-encontro-de-variedades-de-cana",
+   "nome": "20º Grande Encontro de Variedades de Cana",
+   "tipo": "Encontro",
+   "segmentos": [
+    "Cana e bioenergia"
+   ],
+   "inicio": "2026-09-02",
+   "fim": "2026-09-03",
+   "cidade": "Ribeirão Preto",
+   "uf": "SP",
+   "local": "Multiplan Hall",
+   "preco": "Inscrição paga",
+   "gratuito": false,
+   "link": "http://www.ideaonline.com.br/20variedades",
+   "organizador": "Grupo IDEA",
+   "lat": -21.18,
+   "lon": -47.81
+  },
+  {
    "id": "ifc-brasil-2026",
    "nome": "IFC Brasil 2026 – International Fish Congress & Fish Expo",
    "tipo": "Congresso",
@@ -954,23 +1347,26 @@
    "lon": -54.59
   },
   {
-   "id": "20º-grande-encontro-de-variedades-de-cana",
-   "nome": "20º Grande Encontro de Variedades de Cana",
-   "tipo": "Encontro",
+   "id": "33ª-agrinordeste-2026",
+   "nome": "33ª Agrinordeste",
+   "tipo": "Feira",
    "segmentos": [
-    "Cana e bioenergia"
+    "Pecuária de corte",
+    "Leite",
+    "Hortifrúti e flores",
+    "Gestão e mercado"
    ],
-   "inicio": "2026-09-02",
-   "fim": "2026-09-03",
-   "cidade": "Ribeirão Preto",
-   "uf": "SP",
-   "local": "Multiplan Hall",
-   "preco": "Inscrição paga",
-   "gratuito": false,
-   "link": "http://www.ideaonline.com.br/20variedades",
-   "organizador": "Grupo IDEA",
-   "lat": -21.18,
-   "lon": -47.81
+   "inicio": "2026-09-03",
+   "fim": "2026-09-06",
+   "cidade": "Olinda",
+   "uf": "PE",
+   "local": "Pernambuco Centro de Convenções",
+   "preco": "Entrada gratuita com inscrição",
+   "gratuito": true,
+   "link": "https://www.agrinordeste.com.br/",
+   "organizador": "Faepe",
+   "lat": -8.01,
+   "lon": -34.86
   },
   {
    "id": "fórum-pecuária-brasil-2026",
@@ -1010,6 +1406,26 @@
    "organizador": "Nucleovet",
    "lat": -27.1,
    "lon": -52.62
+  },
+  {
+   "id": "64ª-festa-do-boi-2026",
+   "nome": "64ª Festa do Boi",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Pecuária de corte",
+    "Leite"
+   ],
+   "inicio": "2026-10-09",
+   "fim": "2026-10-17",
+   "cidade": "Parnamirim",
+   "uf": "RN",
+   "local": "Parque de Exposições Aristófanes Fernandes",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://agorarn.com.br/ultimas/festa-do-boi-2026-foco-nas-mulheres-r-60-milhoes/",
+   "organizador": "Governo do RN, Anorc e Sebrae-RN",
+   "lat": -5.92,
+   "lon": -35.26
   },
   {
    "id": "seafood-show-latin-america-2026",
@@ -1111,25 +1527,6 @@
    "lon": -41.13
   },
   {
-   "id": "expogenetica-ms-2026",
-   "nome": "Expogenética MS 2026",
-   "tipo": "Exposição",
-   "segmentos": [
-    "Pecuária de corte"
-   ],
-   "inicio": "2026-10-29",
-   "fim": "2026-11-08",
-   "cidade": "Campo Grande",
-   "uf": "MS",
-   "local": "Parque de Exposições Laucídio Coelho",
-   "preco": "Entrada gratuita; camarotes e arquibancadas pagos",
-   "gratuito": true,
-   "link": "https://acritica.net/eventos/expogenetica-ms-2026-programacao-completa-shows-entrada-gratuita/",
-   "organizador": "Nelore MS, com apoio da Acrissul",
-   "lat": -20.45,
-   "lon": -54.62
-  },
-  {
    "id": "expocariri-2026",
    "nome": "ExpoCariri 2026",
    "tipo": "Exposição",
@@ -1148,6 +1545,25 @@
    "organizador": "Faec",
    "lat": -7.31,
    "lon": -39.3
+  },
+  {
+   "id": "expogenetica-ms-2026",
+   "nome": "Expogenética MS 2026",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Pecuária de corte"
+   ],
+   "inicio": "2026-10-29",
+   "fim": "2026-11-08",
+   "cidade": "Campo Grande",
+   "uf": "MS",
+   "local": "Parque de Exposições Laucídio Coelho",
+   "preco": "Entrada gratuita; camarotes e arquibancadas pagos",
+   "gratuito": true,
+   "link": "https://acritica.net/eventos/expogenetica-ms-2026-programacao-completa-shows-entrada-gratuita/",
+   "organizador": "Nelore MS, com apoio da Acrissul",
+   "lat": -20.45,
+   "lon": -54.62
   },
   {
    "id": "expoece-2026",
@@ -1213,24 +1629,24 @@
    "lon": -60.67
   },
   {
-   "id": "semana-internacional-do-café-2026",
-   "nome": "Semana Internacional do Café 2026",
-   "tipo": "Feira",
+   "id": "pecuaria-em-pauta-2026",
+   "nome": "Pecuária em Pauta 2026",
+   "tipo": "Encontro",
    "segmentos": [
-    "Café",
+    "Pecuária de corte",
     "Gestão e mercado"
    ],
-   "inicio": "2026-11-11",
-   "fim": "2026-11-13",
-   "cidade": "Belo Horizonte",
-   "uf": "MG",
-   "local": "A confirmar no site",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://semanainternacionaldocafe.com.br/",
-   "organizador": "SIC",
-   "lat": -19.92,
-   "lon": -43.94
+   "inicio": "2026-11-04",
+   "fim": "2026-11-04",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Auditório Steffi e Max Perlman – Insper",
+   "preco": "Gratuito, com inscrição prévia",
+   "gratuito": true,
+   "link": "https://oestadoderondonia.com.br/novembro-tera-serie-de-feiras-e-encontros-do-agro/",
+   "organizador": "Acrimat e Insper",
+   "lat": -23.55,
+   "lon": -46.63
   },
   {
    "id": "conacredi-agro-2026",
@@ -1252,6 +1668,26 @@
    "lon": -46.63
   },
   {
+   "id": "semana-internacional-do-café-2026",
+   "nome": "Semana Internacional do Café 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Café",
+    "Gestão e mercado"
+   ],
+   "inicio": "2026-11-11",
+   "fim": "2026-11-13",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "local": "A confirmar no site",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://semanainternacionaldocafe.com.br/",
+   "organizador": "SIC",
+   "lat": -19.92,
+   "lon": -43.94
+  },
+  {
    "id": "19ª-expofrísia",
    "nome": "19ª ExpoFrísia",
    "tipo": "Exposição",
@@ -1270,6 +1706,67 @@
    "organizador": "Frísia",
    "lat": -24.95,
    "lon": -50.1
+  },
+  {
+   "id": "tecsem-2026",
+   "nome": "4º Tecsem 2026 – cadeia de sementes",
+   "tipo": "Encontro",
+   "segmentos": [
+    "Grãos",
+    "Gestão e mercado"
+   ],
+   "inicio": "2026-11-12",
+   "fim": "2026-11-13",
+   "cidade": "Fortaleza",
+   "uf": "CE",
+   "local": "Fábrica de Negócios (Hotel Praia Centro)",
+   "preco": "Consulte com o organizador",
+   "gratuito": false,
+   "link": "https://www.revistacultivar.com.br/eventos/tecsem",
+   "organizador": "Image Pesquisas",
+   "lat": -3.73,
+   "lon": -38.52
+  },
+  {
+   "id": "e-agro-2026",
+   "nome": "8ª e-Agro 2026 – Feira de Tecnologia e Inovação Agropecuária",
+   "tipo": "Feira",
+   "segmentos": [
+    "Máquinas e tecnologia",
+    "Gestão e mercado"
+   ],
+   "inicio": "2026-11-12",
+   "fim": "2026-11-14",
+   "cidade": "Salvador",
+   "uf": "BA",
+   "local": "Centro de Convenções de Salvador",
+   "preco": "Gratuito, com credenciamento online",
+   "gratuito": true,
+   "link": "https://idcollect.com.br/eagro26/",
+   "organizador": "e-Agro",
+   "lat": -12.97,
+   "lon": -38.5
+  },
+  {
+   "id": "expofeira-rio-grande-2026",
+   "nome": "Expofeira do Rio Grande 2026",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Pecuária de corte",
+    "Leite",
+    "Grãos"
+   ],
+   "inicio": "2026-11-12",
+   "fim": "2026-11-15",
+   "cidade": "Rio Grande",
+   "uf": "RS",
+   "local": "Local a confirmar com o organizador",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.mapadasfeiras.com.br/evento/expofeira-rio-grande-2026",
+   "organizador": "Sindicato Rural do Rio Grande",
+   "lat": -32.03,
+   "lon": -52.1
   },
   {
    "id": "faesp-show-2026",
@@ -1294,26 +1791,6 @@
    "lon": -48.93
   },
   {
-   "id": "e-agro-2026",
-   "nome": "8ª e-Agro 2026 – Feira de Tecnologia e Inovação Agropecuária",
-   "tipo": "Feira",
-   "segmentos": [
-    "Máquinas e tecnologia",
-    "Gestão e mercado"
-   ],
-   "inicio": "2026-11-12",
-   "fim": "2026-11-14",
-   "cidade": "Salvador",
-   "uf": "BA",
-   "local": "Centro de Convenções de Salvador",
-   "preco": "Gratuito, com credenciamento online",
-   "gratuito": true,
-   "link": "https://idcollect.com.br/eagro26/",
-   "organizador": "e-Agro",
-   "lat": -12.97,
-   "lon": -38.5
-  },
-  {
    "id": "fenacam-2026",
    "nome": "Fenacam 2026 – Feira Nacional do Camarão",
    "tipo": "Feira",
@@ -1332,6 +1809,26 @@
    "organizador": "ABCC – Associação Brasileira de Criadores de Camarão",
    "lat": -5.79,
    "lon": -35.2
+  },
+  {
+   "id": "83ª-exposição-nordestina-de-animais-2026",
+   "nome": "83ª Exposição Nordestina de Animais e Produtos Derivados",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Pecuária de corte",
+    "Leite"
+   ],
+   "inicio": "2026-11-19",
+   "fim": "2026-11-29",
+   "cidade": "Recife",
+   "uf": "PE",
+   "local": "Parque de Exposições do Cordeiro",
+   "preco": "R$ 14 (seg–qui) e R$ 16 (sex–dom); meia-entrada disponível",
+   "gratuito": false,
+   "link": "https://www.evenyx.com/83a-exposicao-nordestina-de-animais-e-produtos-derivados",
+   "organizador": "Sociedade Nordestina dos Criadores (SNC)",
+   "lat": -8.05,
+   "lon": -34.88
   },
   {
    "id": "ficar-assis-2026",
@@ -1415,6 +1912,45 @@
    "lon": -53.84
   },
   {
+   "preco": "Inscrição pelo Sympla",
+   "gratuito": false,
+   "id": "3-seminario-suinocultura-mt-2026",
+   "nome": "3º Seminário da Suinocultura de Mato Grosso",
+   "tipo": "Encontro",
+   "segmentos": [
+    "Aves e suínos"
+   ],
+   "inicio": "2026-12-01",
+   "fim": "2026-12-01",
+   "cidade": "Cuiabá",
+   "uf": "MT",
+   "local": "Centro de Eventos do Pantanal",
+   "link": "https://www.sympla.com.br/evento/3-seminario-da-suinocultura-de-mato-grosso/3633375",
+   "organizador": "Consulte a página do evento",
+   "lat": -15.6,
+   "lon": -56.1
+  },
+  {
+   "id": "agroshow-copagril-2027",
+   "nome": "Agroshow Copagril 2027",
+   "tipo": "Dia de campo",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-01-11",
+   "fim": "2027-01-14",
+   "cidade": "Marechal Cândido Rondon",
+   "uf": "PR",
+   "local": "Estação Experimental da Copagril",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://revistaespeciais.com.br/noticia/8225/agroshow-copagril-2027-tera-quatro-dias-e-abre-comercializacao-de-espacos",
+   "organizador": "Copagril",
+   "lat": -24.56,
+   "lon": -54.06
+  },
+  {
    "id": "sealba-show-2027",
    "nome": "Sealba Show 2027",
    "tipo": "Feira",
@@ -1436,6 +1972,29 @@
    "lon": -37.425
   },
   {
+   "id": "itaipu-rural-show-2027",
+   "nome": "28º Itaipu Rural Show",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Leite",
+    "Aves e suínos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-02-01",
+   "fim": "2027-02-28",
+   "cidade": "Pinhalzinho",
+   "uf": "SC",
+   "local": "Parque de exposições da Cooperitaipu",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.google.com/search?q=Itaipu+Rural+Show+2027+Pinhalzinho",
+   "organizador": "Cooperitaipu",
+   "lat": -26.85,
+   "lon": -52.99,
+   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: fevereiro"
+  },
+  {
    "id": "39º-show-rural-coopavel",
    "nome": "39º Show Rural Coopavel",
    "tipo": "Feira",
@@ -1455,6 +2014,46 @@
    "organizador": "Coopavel",
    "lat": -24.96,
    "lon": -53.46
+  },
+  {
+   "id": "37ª-abertura-oficial-da-colheita-do-arroz-2027",
+   "nome": "37ª Abertura Oficial da Colheita do Arroz e Grãos em Terras Baixas",
+   "tipo": "Dia de campo",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-02-16",
+   "fim": "2027-02-18",
+   "cidade": "Capão do Leão",
+   "uf": "RS",
+   "local": "Estação Experimental Terras Baixas (Embrapa Clima Temperado)",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://safras.com.br/organizadores-da-abertura-da-colheita-do-arroz-iniciam-preparo-das-areas-para-2027/",
+   "organizador": "Federarroz, Embrapa e Senar-RS",
+   "lat": -31.76,
+   "lon": -52.48
+  },
+  {
+   "id": "31-show-tecnologico-copercampos-2027",
+   "nome": "31º Show Tecnológico Copercampos",
+   "tipo": "Dia de campo",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-02-23",
+   "fim": "2027-02-25",
+   "cidade": "Campos Novos",
+   "uf": "SC",
+   "local": "Área de eventos da Copercampos",
+   "preco": "Entrada gratuita",
+   "gratuito": true,
+   "link": "https://www.revistacultivar.com.br/eventos/show-tecnologico-copercampos-2027",
+   "organizador": "Copercampos",
+   "lat": -27.4,
+   "lon": -51.22
   },
   {
    "id": "expoagro-cotricampo-2027",
@@ -1499,6 +2098,25 @@
    "lon": -52.82
   },
   {
+   "id": "24º-congresso-apa-ovos-2027",
+   "nome": "24º Congresso APA de Produção e Comercialização de Ovos",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Aves e suínos"
+   ],
+   "inicio": "2027-03-15",
+   "fim": "2027-03-18",
+   "cidade": "Ribeirão Preto",
+   "uf": "SP",
+   "local": "Multiplan Hall, Ribeirão Shopping",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://congressodeovos.com.br/",
+   "organizador": "Associação Paulista de Avicultura (APA)",
+   "lat": -21.18,
+   "lon": -47.81
+  },
+  {
    "id": "femec-2027",
    "nome": "Femec 2027",
    "tipo": "Feira",
@@ -1540,6 +2158,131 @@
    "lon": -46.71
   },
   {
+   "id": "sudoeste-rural-show-2027",
+   "nome": "Sudoeste Rural Show 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Leite",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-03-17",
+   "fim": "2027-03-21",
+   "cidade": "Francisco Beltrão",
+   "uf": "PR",
+   "local": "Parque de Exposições Jayme Canet Junior (Sociedade Rural de Francisco Beltrão)",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.passeios.org/eventos/sudoeste-rural-show-2027/",
+   "organizador": "Organização do Sudoeste Rural Show",
+   "lat": -26.08,
+   "lon": -53.05
+  },
+  {
+   "id": "25ª-expoagro-afubra-2027",
+   "nome": "25ª Expoagro Afubra",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia",
+    "Hortifrúti e flores"
+   ],
+   "inicio": "2027-03-22",
+   "fim": "2027-03-25",
+   "cidade": "Rio Pardo",
+   "uf": "RS",
+   "local": "Parque Rincão del Rey, BR-471, km 161",
+   "preco": "Entrada gratuita nas edições anteriores; confirme no site",
+   "gratuito": true,
+   "link": "https://afubra.com.br/expoagro/sobre/",
+   "organizador": "Afubra",
+   "lat": -29.99,
+   "lon": -52.38
+  },
+  {
+   "id": "show-safra-mato-grosso-2027",
+   "nome": "Show Safra Mato Grosso 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia",
+    "Pecuária de corte"
+   ],
+   "inicio": "2027-03-22",
+   "fim": "2027-03-25",
+   "cidade": "Lucas do Rio Verde",
+   "uf": "MT",
+   "local": "Centro Tecnológico da Fundação Rio Verde",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.showsafra.com.br/",
+   "organizador": "Fundação Rio Verde",
+   "lat": -13.05,
+   "lon": -55.91
+  },
+  {
+   "id": "fira-2027",
+   "nome": "FIRA 2027 – Feira da Indústria de Reciclagem Animal",
+   "tipo": "Feira",
+   "segmentos": [
+    "Aves e suínos",
+    "Pecuária de corte",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-03-23",
+   "fim": "2027-03-25",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Distrito Anhembi (junto à Expomeat)",
+   "preco": "Credenciamento de visitantes aberto no site",
+   "gratuito": false,
+   "link": "https://www.fira.net.br/",
+   "organizador": "FIRA / Expomeat",
+   "lat": -23.55,
+   "lon": -46.63
+  },
+  {
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "id": "expomeat-2027",
+   "nome": "Expomeat 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Aves e suínos",
+    "Pecuária de corte",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-03-23",
+   "fim": "2027-03-25",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Distrito Anhembi",
+   "link": "https://www.expomeat.com.br/home-pt",
+   "organizador": "Expomeat",
+   "lat": -23.55,
+   "lon": -46.63
+  },
+  {
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "id": "expocanas-2027",
+   "nome": "Expocanas 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Cana e bioenergia",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-03-23",
+   "fim": "2027-03-25",
+   "cidade": "Nova Alvorada do Sul",
+   "uf": "MS",
+   "local": "A confirmar no site",
+   "link": "https://expocanas.com/",
+   "organizador": "Expocanas",
+   "lat": -21.47,
+   "lon": -54.38
+  },
+  {
    "id": "farm-show-2027",
    "nome": "Farm Show 2027",
    "tipo": "Feira",
@@ -1560,24 +2303,23 @@
    "lon": -54.3
   },
   {
-   "id": "simpósio-brasil-sul-de-avicultura-2027",
-   "nome": "Simpósio Brasil Sul de Avicultura 2027",
+   "preco": "Inscrições pagas; consulte o site oficial",
+   "gratuito": false,
+   "id": "nutriforum-brasil-2027",
+   "nome": "nutriFórum Brasil 2027",
    "tipo": "Congresso",
    "segmentos": [
     "Aves e suínos"
    ],
-   "inicio": "2027-04-01",
-   "fim": "2027-04-30",
-   "cidade": "Chapecó",
-   "uf": "SC",
-   "local": "Centro de Eventos Plínio Arlindo de Nes",
-   "preco": "Inscrição paga",
-   "gratuito": false,
-   "link": "https://www.google.com/search?q=Simpósio+Brasil+Sul+de+Avicultura+2027",
-   "organizador": "Nucleovet",
-   "lat": -27.1,
-   "lon": -52.62,
-   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: abril"
+   "inicio": "2027-03-30",
+   "fim": "2027-03-31",
+   "cidade": "Campinas",
+   "uf": "SP",
+   "local": "Grand House Eventos",
+   "link": "https://nutriforumbrasil.com/",
+   "organizador": "nutriFórum",
+   "lat": -22.9,
+   "lon": -47.06
   },
   {
    "id": "expogrande-2027",
@@ -1600,6 +2342,27 @@
    "lon": -54.62
   },
   {
+   "id": "24ª-tecnoshow-comigo",
+   "nome": "24ª Tecnoshow Comigo",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia",
+    "Pecuária de corte"
+   ],
+   "inicio": "2027-04-05",
+   "fim": "2027-04-09",
+   "cidade": "Rio Verde",
+   "uf": "GO",
+   "local": "Centro Tecnológico Comigo (CTC)",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.tecnoshowcomigo.com.br/",
+   "organizador": "Cooperativa Comigo",
+   "lat": -17.8,
+   "lon": -50.93
+  },
+  {
    "id": "fenicafé-2027",
    "nome": "Fenicafé 2027",
    "tipo": "Feira",
@@ -1620,25 +2383,23 @@
    "lon": -48.19
   },
   {
-   "id": "24ª-tecnoshow-comigo",
-   "nome": "24ª Tecnoshow Comigo",
-   "tipo": "Feira",
+   "id": "simpósio-brasil-sul-de-avicultura-2027",
+   "nome": "27º Simpósio Brasil Sul de Avicultura 2027",
+   "tipo": "Congresso",
    "segmentos": [
-    "Grãos",
-    "Máquinas e tecnologia",
-    "Pecuária de corte"
+    "Aves e suínos"
    ],
-   "inicio": "2027-04-05",
-   "fim": "2027-04-09",
-   "cidade": "Rio Verde",
-   "uf": "GO",
-   "local": "Centro Tecnológico Comigo (CTC)",
-   "preco": "Consulte no site oficial",
+   "inicio": "2027-04-06",
+   "fim": "2027-04-08",
+   "cidade": "Chapecó",
+   "uf": "SC",
+   "local": "Centro de Eventos Plínio Arlindo de Nes",
+   "preco": "Inscrição paga",
    "gratuito": false,
-   "link": "https://www.tecnoshowcomigo.com.br/",
-   "organizador": "Cooperativa Comigo",
-   "lat": -17.8,
-   "lon": -50.93
+   "link": "https://nucleovet.com.br/simposios/avicultura",
+   "organizador": "Nucleovet",
+   "lat": -27.1,
+   "lon": -52.62
   },
   {
    "id": "fruit-attraction-sao-paulo-2027",
@@ -1681,24 +2442,85 @@
    "lon": -54.66
   },
   {
-   "id": "parecis-superagro-2027",
-   "nome": "Parecis SuperAgro 2027",
+   "id": "expolondrina-2027",
+   "nome": "ExpoLondrina 2027",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Pecuária de corte",
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-04-09",
+   "fim": "2027-04-18",
+   "cidade": "Londrina",
+   "uf": "PR",
+   "local": "Parque Governador Ney Braga",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://expolondrina.com.br/",
+   "organizador": "Sociedade Rural do Paraná",
+   "lat": -23.31,
+   "lon": -51.16
+  },
+  {
+   "id": "favesu-2027",
+   "nome": "Favesu 2027 – Feira da Proteína Animal Capixaba",
+   "tipo": "Feira",
+   "segmentos": [
+    "Aves e suínos",
+    "Pescado"
+   ],
+   "inicio": "2027-04-14",
+   "fim": "2027-04-15",
+   "cidade": "Venda Nova do Imigrante",
+   "uf": "ES",
+   "local": "Centro de Eventos Padre Cleto Caliman",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://favesu.com.br/",
+   "organizador": "AVES e ASES (associações de avicultores e suinocultores do ES)",
+   "lat": -20.33,
+   "lon": -41.13
+  },
+  {
+   "id": "feragro-2027",
+   "nome": "Feragro 2027 – Feira Regional Agropecuária (edição 10 anos)",
+   "tipo": "Feira",
+   "segmentos": [
+    "Máquinas e tecnologia",
+    "Gestão e mercado"
+   ],
+   "inicio": "2027-04-14",
+   "fim": "2027-04-16",
+   "cidade": "Capelinha",
+   "uf": "MG",
+   "local": "Parque de Exposições de Capelinha",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.feragro.com.br/",
+   "organizador": "ACIAC Capelinha, Prefeitura de Capelinha e Emater-MG",
+   "lat": -17.69,
+   "lon": -42.52
+  },
+  {
+   "id": "norte-show-2027",
+   "nome": "Norte Show 2027",
    "tipo": "Feira",
    "segmentos": [
     "Grãos",
     "Máquinas e tecnologia"
    ],
-   "inicio": "2027-04-14",
-   "fim": "2027-04-16",
-   "cidade": "Campo Novo do Parecis",
+   "inicio": "2027-04-20",
+   "fim": "2027-04-23",
+   "cidade": "Sinop",
    "uf": "MT",
-   "local": "A confirmar no site",
-   "preco": "Consulte no site oficial",
+   "local": "Parque de Exposições da Acrinorte",
+   "preco": "Consulte o organizador",
    "gratuito": false,
-   "link": "https://www.noticiasagricolas.com.br/noticias/agronegocio/419331-definitivamente-somos-um-territorio-de-gigantes-enfatiza-brolio-ao-encerrar-parecis-super-agro-2026-com-anuncio-das-datas-das-proximas-tres-edicoes.amp.html",
-   "organizador": "Sindicato Rural de Campo Novo do Parecis",
-   "lat": -13.67,
-   "lon": -57.89
+   "link": "https://www.sonoticias.com.br/economia/sinop-acrinorte-define-data-da-norte-show-2027-e-preve-ampliar-espaco-para-novos-expositores/",
+   "organizador": "Acrinorte e Sindicato Rural de Sinop",
+   "lat": -11.86,
+   "lon": -55.5
   },
   {
    "id": "agrishow-2027",
@@ -1722,23 +2544,64 @@
    "lon": -47.81
   },
   {
-   "id": "feibanana-2027",
-   "nome": "Feibanana 2027",
+   "id": "exposoja-2027",
+   "nome": "Exposoja 2027",
    "tipo": "Feira",
    "segmentos": [
-    "Hortifrúti e flores"
+    "Grãos",
+    "Máquinas e tecnologia"
    ],
-   "inicio": "2027-05-11",
-   "fim": "2027-05-13",
-   "cidade": "Registro",
-   "uf": "SP",
-   "local": "Recinto Permanente de Exposições",
-   "preco": "Consulte no site oficial",
+   "inicio": "2027-05-04",
+   "fim": "2027-05-07",
+   "cidade": "Uruçuí",
+   "uf": "PI",
+   "local": "Parque de Exposições de Nova Santa Rosa",
+   "preco": "Consulte o organizador",
    "gratuito": false,
-   "link": "https://www.google.com/search?q=Feibanana+2027+Registro",
-   "organizador": "",
-   "lat": -24.49,
-   "lon": -47.84
+   "link": "https://exposojaoficial.com.br/",
+   "organizador": "Organização da Exposoja",
+   "lat": -7.23,
+   "lon": -44.56
+  },
+  {
+   "preco": "Inscrições pagas; consulte o site oficial",
+   "gratuito": false,
+   "id": "incubaforum-2027",
+   "nome": "incubaFÓRUM Brasil 2027",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Aves e suínos"
+   ],
+   "inicio": "2027-05-04",
+   "fim": "2027-05-05",
+   "cidade": "Maringá",
+   "uf": "PR",
+   "local": "A confirmar no site",
+   "link": "https://incubaforum.com/incubaforum-brasil/",
+   "organizador": "incubaFÓRUM",
+   "lat": -23.42,
+   "lon": -51.94
+  },
+  {
+   "id": "expoingá-2027",
+   "nome": "53ª Expoingá 2027",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Pecuária de corte",
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-05-06",
+   "fim": "2027-05-16",
+   "cidade": "Maringá",
+   "uf": "PR",
+   "local": "Parque Internacional de Exposições Francisco Feio Ribeiro",
+   "preco": "Ingressos ainda não divulgados; consulte o site oficial",
+   "gratuito": false,
+   "link": "https://expoinga.com.br/",
+   "organizador": "Sociedade Rural de Maringá",
+   "lat": -23.42,
+   "lon": -51.94
   },
   {
    "id": "copacol-agro-2027",
@@ -1762,6 +2625,45 @@
    "lon": -53.32
   },
   {
+   "id": "feibanana-2027",
+   "nome": "Feibanana 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Hortifrúti e flores"
+   ],
+   "inicio": "2027-05-11",
+   "fim": "2027-05-13",
+   "cidade": "Registro",
+   "uf": "SP",
+   "local": "Recinto Permanente de Exposições",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.google.com/search?q=Feibanana+2027+Registro",
+   "organizador": "",
+   "lat": -24.49,
+   "lon": -47.84
+  },
+  {
+   "id": "fenagra-2027",
+   "nome": "Fenagra 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Aves e suínos",
+    "Pecuária de corte"
+   ],
+   "inicio": "2027-05-11",
+   "fim": "2027-05-13",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Distrito Anhembi",
+   "preco": "Entrada gratuita mediante credenciamento",
+   "gratuito": true,
+   "link": "https://www.fenagra.com.br/",
+   "organizador": "DG Fenagra Eventos e Editora (Editora Stilo e IEG Brasil)",
+   "lat": -23.55,
+   "lon": -46.63
+  },
+  {
    "id": "agrobrasília-2027",
    "nome": "AgroBrasília 2027",
    "tipo": "Feira",
@@ -1781,6 +2683,25 @@
    "organizador": "Coopa-DF",
    "lat": -15.79,
    "lon": -47.88
+  },
+  {
+   "id": "sinsui-2027",
+   "nome": "SINSUI 2027 – Simpósio Internacional de Suinocultura",
+   "tipo": "Simpósio",
+   "segmentos": [
+    "Aves e suínos"
+   ],
+   "inicio": "2027-05-18",
+   "fim": "2027-05-20",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "local": "A confirmar no site",
+   "preco": "Inscrições pagas; consulte o site oficial",
+   "gratuito": false,
+   "link": "https://www.sinsui.com.br/",
+   "organizador": "Setor de Suínos da UFRGS",
+   "lat": -30.03,
+   "lon": -51.23
   },
   {
    "id": "showtec-2027",
@@ -1821,6 +2742,28 @@
    "inicio": "2027-05-25",
    "fim": "2027-05-25",
    "preco": "Pré-venda congressista R$ 395"
+  },
+  {
+   "id": "alimenta-2027",
+   "nome": "Alimenta 2027 – Congresso e Feira da Proteína Animal",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Aves e suínos",
+    "Pecuária de corte",
+    "Leite"
+   ],
+   "inicio": "2027-06-01",
+   "fim": "2027-06-30",
+   "cidade": "Cascavel",
+   "uf": "PR",
+   "local": "Espaço Show Rural Digital, parque do Show Rural Coopavel",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://opresenterural.com.br/alimenta-2027-leva-congresso-e-feira-da-proteina-animal-para-cascavel/",
+   "organizador": "O Presente Rural, Sindiavipar e Hollus Comunicação e Eventos",
+   "lat": -24.96,
+   "lon": -53.46,
+   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: junho"
   },
   {
    "id": "21ª-bahia-farm-show",
@@ -1904,6 +2847,67 @@
    "lon": -47.06
   },
   {
+   "id": "samipa-2027",
+   "nome": "Samipa 2027 – Salão Mineiro da Proteína Animal",
+   "tipo": "Feira",
+   "segmentos": [
+    "Aves e suínos",
+    "Pecuária de corte",
+    "Pescado"
+   ],
+   "inicio": "2027-06-23",
+   "fim": "2027-06-24",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "local": "Expominas",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://diariodocomercio.com.br/agronegocio/minas-tera-novo-evento-unificado-proteina-animal-2027/",
+   "organizador": "Associação dos Avicultores de Minas Gerais (Avimig)",
+   "lat": -19.92,
+   "lon": -43.94
+  },
+  {
+   "id": "expoqueijo-brasil-2027",
+   "nome": "ExpoQueijo Brasil 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Leite"
+   ],
+   "inicio": "2027-06-24",
+   "fim": "2027-06-27",
+   "cidade": "Araxá",
+   "uf": "MG",
+   "local": "Grande Hotel e Termas de Araxá",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://expoqueijobrasil.com.br/",
+   "organizador": "Organização da ExpoQueijo Brasil",
+   "lat": -19.59,
+   "lon": -46.94
+  },
+  {
+   "id": "expoagro-alto-vale-2027",
+   "nome": "ExpoAgro Alto Vale 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Pecuária de corte",
+    "Leite",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-07-15",
+   "fim": "2027-07-18",
+   "cidade": "Pouso Redondo",
+   "uf": "SC",
+   "local": "Pouso Redondo (Alto Vale do Itajaí)",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.coisasdaroca.com/feiras-agropecuarias/datas-e-atracoes-expoagro-alto-vale-2027.html",
+   "organizador": "Organização da ExpoAgro Alto Vale",
+   "lat": -27.26,
+   "lon": -49.93
+  },
+  {
    "id": "agroformosa-2027",
    "nome": "AgroFormosa 2027",
    "tipo": "Feira",
@@ -1924,6 +2928,46 @@
    "lon": -45.19
   },
   {
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "id": "agroleite-2027",
+   "nome": "Agroleite 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Leite",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-08-02",
+   "fim": "2027-08-06",
+   "cidade": "Castro",
+   "uf": "PR",
+   "local": "Parque Tecnológico Agroleite",
+   "link": "https://agroleitecastrolanda.com.br/",
+   "organizador": "Castrolanda",
+   "lat": -24.79,
+   "lon": -50.01
+  },
+  {
+   "id": "congresso-andav-2027",
+   "nome": "16º Congresso Andav 2027",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Gestão e mercado",
+    "Grãos"
+   ],
+   "inicio": "2027-08-03",
+   "fim": "2027-08-05",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "A confirmar no site",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.revistacultivar.com.br/eventos/congresso-andav-2027",
+   "organizador": "Andav",
+   "lat": -23.55,
+   "lon": -46.63
+  },
+  {
    "id": "fenasucro-&-agrocana-2027",
    "nome": "Fenasucro & Agrocana 2027",
    "tipo": "Feira",
@@ -1942,6 +2986,25 @@
    "organizador": "RX",
    "lat": -21.14,
    "lon": -47.99
+  },
+  {
+   "preco": "Inscrições pagas; consulte o site oficial",
+   "gratuito": false,
+   "id": "simposio-tecnico-acav-2027",
+   "nome": "Simpósio Técnico da ACAV 2027",
+   "tipo": "Simpósio",
+   "segmentos": [
+    "Aves e suínos"
+   ],
+   "inicio": "2027-08-10",
+   "fim": "2027-08-12",
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "local": "Centrosul",
+   "link": "https://www.simposioacav.com.br/",
+   "organizador": "Associação Catarinense de Avicultura (ACAV)",
+   "lat": -27.6,
+   "lon": -48.55
   },
   {
    "id": "50ª-expointer",
@@ -1986,430 +3049,24 @@
    "lon": -54.59
   },
   {
-   "id": "pantanal-tech-2026",
-   "nome": "Pantanal Tech MS 2026",
-   "tipo": "Feira",
-   "segmentos": [
-    "Pecuária de corte",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2026-07-03",
-   "fim": "2026-07-05",
-   "cidade": "Aquidauana",
-   "uf": "MS",
-   "local": "Fazenda da UEMS de Aquidauana",
    "preco": "Consulte no site oficial",
    "gratuito": false,
-   "link": "https://pantanaltechms.com.br/",
-   "organizador": "Governo de MS e parceiros",
-   "lat": -20.47,
-   "lon": -55.79
-  },
-  {
-   "id": "2ª-expocacau-2026",
-   "nome": "2ª ExpoCacau 2026",
+   "id": "fruit-brasil-2027",
+   "nome": "Fruit Brasil 2027 – Feira de Processamento de Frutas e Hortaliças",
    "tipo": "Feira",
    "segmentos": [
-    "Gestão e mercado"
-   ],
-   "inicio": "2026-08-25",
-   "fim": "2026-08-27",
-   "cidade": "Ilhéus",
-   "uf": "BA",
-   "local": "Ilhéus (BA)",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://expocacau.com.br/",
-   "organizador": "ExpoCacau",
-   "lat": -14.79,
-   "lon": -39.05
-  },
-  {
-   "id": "33ª-agrinordeste-2026",
-   "nome": "33ª Agrinordeste",
-   "tipo": "Feira",
-   "segmentos": [
-    "Pecuária de corte",
-    "Leite",
     "Hortifrúti e flores",
-    "Gestão e mercado"
-   ],
-   "inicio": "2026-09-03",
-   "fim": "2026-09-06",
-   "cidade": "Olinda",
-   "uf": "PE",
-   "local": "Pernambuco Centro de Convenções",
-   "preco": "Entrada gratuita com inscrição",
-   "gratuito": true,
-   "link": "https://www.agrinordeste.com.br/",
-   "organizador": "Faepe",
-   "lat": -8.01,
-   "lon": -34.86
-  },
-  {
-   "id": "12º-coplacampo-2026",
-   "nome": "12º Coplacampo",
-   "tipo": "Feira",
-   "segmentos": [
-    "Cana e bioenergia",
-    "Grãos",
     "Máquinas e tecnologia"
    ],
-   "inicio": "2026-02-23",
-   "fim": "2026-02-27",
-   "cidade": "Piracicaba",
+   "inicio": "2027-11-10",
+   "fim": "2027-11-11",
+   "cidade": "Americana",
    "uf": "SP",
-   "local": "Rodovia do Açúcar SP-308, km 157 (Bairro Taquaral)",
-   "preco": "Entrada gratuita com inscrição antecipada",
-   "gratuito": true,
-   "link": "https://inscricoes.eventos.site/Coplacampo",
-   "organizador": "Coplacana",
-   "lat": -22.73,
-   "lon": -47.65
-  },
-  {
-   "id": "36ª-abertura-oficial-da-colheita-do-arroz-2026",
-   "nome": "36ª Abertura Oficial da Colheita do Arroz e Grãos em Terras Baixas",
-   "tipo": "Dia de campo",
-   "segmentos": [
-    "Grãos",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2026-02-24",
-   "fim": "2026-02-26",
-   "cidade": "Capão do Leão",
-   "uf": "RS",
-   "local": "Estação Experimental Terras Baixas (Embrapa Clima Temperado)",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://www.agrolink.com.br/eventos/36--abertura-oficial-da-colheita-do-arroz-e-graos",
-   "organizador": "Federarroz, Embrapa e Senar-RS",
-   "lat": -31.76,
-   "lon": -52.48
-  },
-  {
-   "id": "37ª-abertura-oficial-da-colheita-do-arroz-2027",
-   "nome": "37ª Abertura Oficial da Colheita do Arroz e Grãos em Terras Baixas",
-   "tipo": "Dia de campo",
-   "segmentos": [
-    "Grãos",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-02-16",
-   "fim": "2027-02-18",
-   "cidade": "Capão do Leão",
-   "uf": "RS",
-   "local": "Estação Experimental Terras Baixas (Embrapa Clima Temperado)",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://safras.com.br/organizadores-da-abertura-da-colheita-do-arroz-iniciam-preparo-das-areas-para-2027/",
-   "organizador": "Federarroz, Embrapa e Senar-RS",
-   "lat": -31.76,
-   "lon": -52.48
-  },
-  {
-   "id": "24º-congresso-apa-ovos-2027",
-   "nome": "24º Congresso APA de Produção e Comercialização de Ovos",
-   "tipo": "Congresso",
-   "segmentos": [
-    "Aves e suínos"
-   ],
-   "inicio": "2027-03-15",
-   "fim": "2027-03-18",
-   "cidade": "Ribeirão Preto",
-   "uf": "SP",
-   "local": "Multiplan Hall, Ribeirão Shopping",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://congressodeovos.com.br/",
-   "organizador": "Associação Paulista de Avicultura (APA)",
-   "lat": -21.18,
-   "lon": -47.81
-  },
-  {
-   "id": "samipa-2027",
-   "nome": "Samipa 2027 – Salão Mineiro da Proteína Animal",
-   "tipo": "Feira",
-   "segmentos": [
-    "Aves e suínos",
-    "Pecuária de corte",
-    "Pescado"
-   ],
-   "inicio": "2027-06-23",
-   "fim": "2027-06-24",
-   "cidade": "Belo Horizonte",
-   "uf": "MG",
-   "local": "Expominas",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://diariodocomercio.com.br/agronegocio/minas-tera-novo-evento-unificado-proteina-animal-2027/",
-   "organizador": "Associação dos Avicultores de Minas Gerais (Avimig)",
-   "lat": -19.92,
-   "lon": -43.94
-  },
-  {
-   "id": "alimenta-2027",
-   "nome": "Alimenta 2027 – Congresso e Feira da Proteína Animal",
-   "tipo": "Congresso",
-   "segmentos": [
-    "Aves e suínos",
-    "Pecuária de corte",
-    "Leite"
-   ],
-   "inicio": "2027-06-01",
-   "fim": "2027-06-30",
-   "cidade": "Cascavel",
-   "uf": "PR",
-   "local": "Espaço Show Rural Digital, parque do Show Rural Coopavel",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://opresenterural.com.br/alimenta-2027-leva-congresso-e-feira-da-proteina-animal-para-cascavel/",
-   "organizador": "O Presente Rural, Sindiavipar e Hollus Comunicação e Eventos",
-   "lat": -24.96,
-   "lon": -53.46,
-   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: junho"
-  },
-  {
-   "id": "exposoja-2027",
-   "nome": "Exposoja 2027",
-   "tipo": "Feira",
-   "segmentos": [
-    "Grãos",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-05-04",
-   "fim": "2027-05-07",
-   "cidade": "Uruçuí",
-   "uf": "PI",
-   "local": "Parque de Exposições de Nova Santa Rosa",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://exposojaoficial.com.br/",
-   "organizador": "Organização da Exposoja",
-   "lat": -7.23,
-   "lon": -44.56
-  },
-  {
-   "id": "83ª-exposição-nordestina-de-animais-2026",
-   "nome": "83ª Exposição Nordestina de Animais e Produtos Derivados",
-   "tipo": "Exposição",
-   "segmentos": [
-    "Pecuária de corte",
-    "Leite"
-   ],
-   "inicio": "2026-11-19",
-   "fim": "2026-11-29",
-   "cidade": "Recife",
-   "uf": "PE",
-   "local": "Parque de Exposições do Cordeiro",
-   "preco": "R$ 14 (seg–qui) e R$ 16 (sex–dom); meia-entrada disponível",
-   "gratuito": false,
-   "link": "https://www.evenyx.com/83a-exposicao-nordestina-de-animais-e-produtos-derivados",
-   "organizador": "Sociedade Nordestina dos Criadores (SNC)",
-   "lat": -8.05,
-   "lon": -34.88
-  },
-  {
-   "id": "64ª-festa-do-boi-2026",
-   "nome": "64ª Festa do Boi",
-   "tipo": "Exposição",
-   "segmentos": [
-    "Pecuária de corte",
-    "Leite"
-   ],
-   "inicio": "2026-10-09",
-   "fim": "2026-10-17",
-   "cidade": "Parnamirim",
-   "uf": "RN",
-   "local": "Parque de Exposições Aristófanes Fernandes",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://agorarn.com.br/ultimas/festa-do-boi-2026-foco-nas-mulheres-r-60-milhoes/",
-   "organizador": "Governo do RN, Anorc e Sebrae-RN",
-   "lat": -5.92,
-   "lon": -35.26
-  },
-  {
-   "id": "expoalagoas-genetica-2026",
-   "nome": "Expoalagoas Genética 2026",
-   "tipo": "Exposição",
-   "segmentos": [
-    "Pecuária de corte",
-    "Leite"
-   ],
-   "inicio": "2026-05-11",
-   "fim": "2026-05-17",
-   "cidade": "Maceió",
-   "uf": "AL",
-   "local": "Parque da Pecuária",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://www.gazetadealagoas.com.br/rural/861899/aca-divulga-calendario-de-2026-das-grandes-exposicoes-agropecuarias-de-alagoas",
-   "organizador": "Associação dos Criadores de Alagoas (ACA)",
-   "lat": -9.67,
-   "lon": -35.73
-  },
-  {
-   "id": "ii-inovabio-2026",
-   "nome": "II INOVABIO – Encontro sobre Bioinsumos Inovadores",
-   "tipo": "Encontro",
-   "segmentos": [
-    "Grãos",
-    "Hortifrúti e flores"
-   ],
-   "inicio": "2026-02-25",
-   "fim": "2026-02-27",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "local": "Instituto Biológico",
-   "preco": "Inscrição paga (vagas limitadas)",
-   "gratuito": false,
-   "link": "https://fealq.org.br/eventos/ii-inovabio-encontro-sobre-bioinsumos-inovadores/",
-   "organizador": "Fealq",
-   "lat": -23.55,
-   "lon": -46.63
-  },
-  {
-   "id": "show-safra-mato-grosso-2027",
-   "nome": "Show Safra Mato Grosso 2027",
-   "tipo": "Feira",
-   "segmentos": [
-    "Grãos",
-    "Máquinas e tecnologia",
-    "Pecuária de corte"
-   ],
-   "inicio": "2027-03-22",
-   "fim": "2027-03-25",
-   "cidade": "Lucas do Rio Verde",
-   "uf": "MT",
-   "local": "Centro Tecnológico da Fundação Rio Verde",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://www.showsafra.com.br/",
-   "organizador": "Fundação Rio Verde",
-   "lat": -13.05,
-   "lon": -55.91
-  },
-  {
-   "id": "norte-show-2027",
-   "nome": "Norte Show 2027",
-   "tipo": "Feira",
-   "segmentos": [
-    "Grãos",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-04-20",
-   "fim": "2027-04-23",
-   "cidade": "Sinop",
-   "uf": "MT",
-   "local": "Parque de Exposições da Acrinorte",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://www.sonoticias.com.br/economia/sinop-acrinorte-define-data-da-norte-show-2027-e-preve-ampliar-espaco-para-novos-expositores/",
-   "organizador": "Acrinorte e Sindicato Rural de Sinop",
-   "lat": -11.86,
-   "lon": -55.5
-  },
-  {
-   "id": "expoingá-2027",
-   "nome": "53ª Expoingá 2027",
-   "tipo": "Exposição",
-   "segmentos": [
-    "Pecuária de corte",
-    "Grãos",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-05-06",
-   "fim": "2027-05-16",
-   "cidade": "Maringá",
-   "uf": "PR",
-   "local": "Parque Internacional de Exposições Francisco Feio Ribeiro",
-   "preco": "Ingressos ainda não divulgados; consulte o site oficial",
-   "gratuito": false,
-   "link": "https://expoinga.com.br/",
-   "organizador": "Sociedade Rural de Maringá",
-   "lat": -23.42,
-   "lon": -51.94
-  },
-  {
-   "id": "fira-2027",
-   "nome": "FIRA 2027 – Feira da Indústria de Reciclagem Animal",
-   "tipo": "Feira",
-   "segmentos": [
-    "Aves e suínos",
-    "Pecuária de corte",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-03-23",
-   "fim": "2027-03-25",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "local": "Distrito Anhembi (junto à Expomeat)",
-   "preco": "Credenciamento de visitantes aberto no site",
-   "gratuito": false,
-   "link": "https://www.fira.net.br/",
-   "organizador": "FIRA / Expomeat",
-   "lat": -23.55,
-   "lon": -46.63
-  },
-  {
-   "id": "favesu-2027",
-   "nome": "Favesu 2027 – Feira da Proteína Animal Capixaba",
-   "tipo": "Feira",
-   "segmentos": [
-    "Aves e suínos",
-    "Pescado"
-   ],
-   "inicio": "2027-04-14",
-   "fim": "2027-04-15",
-   "cidade": "Venda Nova do Imigrante",
-   "uf": "ES",
-   "local": "Centro de Eventos Padre Cleto Caliman",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://favesu.com.br/",
-   "organizador": "AVES e ASES (associações de avicultores e suinocultores do ES)",
-   "lat": -20.33,
-   "lon": -41.13
-  },
-  {
-   "id": "sinsui-2027",
-   "nome": "SINSUI 2027 – Simpósio Internacional de Suinocultura",
-   "tipo": "Simpósio",
-   "segmentos": [
-    "Aves e suínos"
-   ],
-   "inicio": "2027-05-18",
-   "fim": "2027-05-20",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "local": "A confirmar no site",
-   "preco": "Inscrições pagas; consulte o site oficial",
-   "gratuito": false,
-   "link": "https://www.sinsui.com.br/",
-   "organizador": "Setor de Suínos da UFRGS",
-   "lat": -30.03,
-   "lon": -51.23
-  },
-  {
-   "id": "fenasul-expoleite-2026",
-   "nome": "Fenasul Expoleite 2026",
-   "tipo": "Exposição",
-   "segmentos": [
-    "Leite",
-    "Pecuária de corte"
-   ],
-   "inicio": "2026-05-13",
-   "fim": "2026-05-17",
-   "cidade": "Esteio",
-   "uf": "RS",
-   "local": "Parque de Exposições Assis Brasil",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://www.agrolink.com.br/eventos/fenasul-e-expoleite-2026",
-   "organizador": "Governo do RS (Seapi)",
-   "lat": -29.85,
-   "lon": -51.18
+   "local": "Av. Nossa Senhora de Fátima, 200",
+   "link": "https://www.fruitbrasil.com.br/",
+   "organizador": "Fruit Brasil",
+   "lat": -22.74,
+   "lon": -47.33
   }
  ]
 }
