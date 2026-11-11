@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-09T13:39:52-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-11T07:45:00-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -2336,7 +2336,7 @@
    "local": "Parque de Exposições Laucídio Coelho",
    "preco": "Consulte no site oficial",
    "gratuito": false,
-   "link": "https://www.passeios.org/eventos/datas-e-atracoes-expo-grande-2027/",
+   "link": "https://acritica.net/agro/expogrande-2027-nova-data-1-a-11-abril-campo-grande/",
    "organizador": "Acrissul",
    "lat": -20.45,
    "lon": -54.62
@@ -3067,6 +3067,47 @@
    "organizador": "Fruit Brasil",
    "lat": -22.74,
    "lon": -47.33
+  },
+  {
+   "id": "agrosamas-2026",
+   "nome": "Agrosamas 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Pecuária de corte",
+    "Grãos",
+    "Gestão e mercado"
+   ],
+   "inicio": "2026-06-04",
+   "fim": "2026-06-06",
+   "cidade": "São Mateus do Maranhão",
+   "uf": "MA",
+   "local": "São Mateus do Maranhão (inclui 2º Encontro de Produtores Rurais em 5/6)",
+   "preco": "Consulte o organizador; cursos gratuitos",
+   "gratuito": false,
+   "link": "https://cnabrasil.org.br/noticias/agrosamas-2026-tera-encontro-de-produtores-rurais-cursos-e-vitrines-tecnologicas-em-sao-mateus-do-maranhao",
+   "organizador": "Sindicato Rural de São Mateus, com Sistema Faema/Senar e Sebrae",
+   "lat": -4.04,
+   "lon": -44.47
+  },
+  {
+   "id": "23-agro-centro-oeste-familiar-2026",
+   "nome": "23ª Agro Centro-Oeste Familiar",
+   "tipo": "Feira",
+   "segmentos": [
+    "Hortifrúti e flores",
+    "Gestão e mercado"
+   ],
+   "inicio": "2026-06-17",
+   "fim": "2026-06-20",
+   "cidade": "Goiânia",
+   "uf": "GO",
+   "local": "Centro de Cultura e Eventos Prof. Ricardo Freua Bufáiçal, Campus Samambaia da UFG",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://tribunadoplanalto.com.br/saiba-quando-comeca-e-onde-sera-a-23a-agro-centro-oeste-familiar/",
+   "organizador": "UFG e instituições parceiras",
+   "lat": -16.68,
+   "lon": -49.25
   }
  ]
 }
