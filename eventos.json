@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-12T07:39:08-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-12T13:39:17-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -3128,6 +3128,25 @@
    "organizador": "Governo do RS (Seapi) e Gadolando",
    "lat": -29.85,
    "lon": -51.18
+  },
+  {
+   "id": "1-conferencia-nacional-de-direito-e-agronegocio-2027",
+   "nome": "1ª Conferência Nacional de Direito e Agronegócio",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Gestão e mercado"
+   ],
+   "inicio": "2027-09-02",
+   "fim": "2027-09-03",
+   "cidade": "Ribeirão Preto",
+   "uf": "SP",
+   "local": "Local a confirmar pelo organizador",
+   "preco": "Programação e inscrições a divulgar",
+   "gratuito": false,
+   "link": "https://agrorevenda.com.br/noticia/oab-sp-anuncia-1a-conferencia-nacional-de-direito-e-agronegocio-em-ribeirao-preto/",
+   "organizador": "OAB SP",
+   "lat": -21.18,
+   "lon": -47.81
   }
  ]
 }
