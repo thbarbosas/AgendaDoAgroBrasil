@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-11T13:37:58-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-12T07:39:08-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -3110,24 +3110,24 @@
    "lon": -49.25
   },
   {
-   "id": "parecis-superagro-2027",
-   "nome": "Parecis SuperAgro 2027",
-   "tipo": "Feira",
+   "id": "fenasul-expoleite-2027",
+   "nome": "Fenasul Expoleite 2027",
+   "tipo": "Exposição",
    "segmentos": [
-    "Grãos",
-    "Máquinas e tecnologia"
+    "Leite",
+    "Pecuária de corte"
    ],
-   "inicio": "2027-04-14",
-   "fim": "2027-04-16",
-   "cidade": "Campo Novo do Parecis",
-   "uf": "MT",
-   "local": "A confirmar no site",
-   "preco": "Consulte no site oficial",
+   "inicio": "2027-05-12",
+   "fim": "2027-05-16",
+   "cidade": "Esteio",
+   "uf": "RS",
+   "local": "Parque de Exposições Assis Brasil",
+   "preco": "Consulte o organizador",
    "gratuito": false,
-   "link": "https://www.google.com/search?q=Parecis+SuperAgro+2027",
-   "organizador": "Sindicato Rural de Campo Novo do Parecis",
-   "lat": -13.67,
-   "lon": -57.89
+   "link": "https://www.radiopampa.com.br/fenasul-e-expoleite-2027-sao-lancadas-na-expointer-com-foco-em-integracao-e-avanco-tecnico-da-pecuaria-leiteira/",
+   "organizador": "Governo do RS (Seapi) e Gadolando",
+   "lat": -29.85,
+   "lon": -51.18
   }
  ]
 }
