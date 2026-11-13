@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-13T07:40:18-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-13T13:48:08-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -3108,6 +3108,26 @@
    "organizador": "UFG e instituições parceiras",
    "lat": -16.68,
    "lon": -49.25
+  },
+  {
+   "id": "agrofest-caparao-2026",
+   "nome": "4ª Agrofest Caparaó 2026 – Feira da Agricultura Familiar e Agronegócio",
+   "tipo": "Feira",
+   "segmentos": [
+    "Café",
+    "Hortifrúti e flores"
+   ],
+   "inicio": "2026-11-06",
+   "fim": "2026-11-08",
+   "cidade": "Muniz Freire",
+   "uf": "ES",
+   "local": "Parque de Exposições de Muniz Freire",
+   "preco": "Entrada gratuita",
+   "gratuito": true,
+   "link": "https://aquinoticias.com/2026/11/agrofest-caparao-2026-tera-tres-dias-de-shows-e-atracoes-gratuitas-em-muniz-freire/",
+   "organizador": "Dupla Produções, Sindicato dos Trabalhadores e Agricultores Familiares de Muniz Freire e Prefeitura",
+   "lat": -20.46,
+   "lon": -41.41
   },
   {
    "id": "fenasul-expoleite-2027",
