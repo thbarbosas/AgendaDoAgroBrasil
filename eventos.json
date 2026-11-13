@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-12T13:39:17-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-13T07:40:18-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -3147,6 +3147,45 @@
    "organizador": "OAB SP",
    "lat": -21.18,
    "lon": -47.81
+  },
+  {
+   "id": "1-feira-agroexperts-amparo-aves-2026",
+   "nome": "1ª Feira AgroExperts Amparo – Aves",
+   "tipo": "Feira",
+   "segmentos": [
+    "Aves e suínos"
+   ],
+   "inicio": "2026-11-13",
+   "fim": "2026-11-13",
+   "cidade": "Amparo",
+   "uf": "SP",
+   "local": "Feira do Produtor (Av. Raul de Oliveira Fagundes, s/nº, Centro)",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://abpa-br.org/agenda-de-eventos-do-setor/",
+   "organizador": "AgroExperts",
+   "lat": -22.7,
+   "lon": -46.77
+  },
+  {
+   "id": "expocafé-2027",
+   "nome": "Expocafé 2027 (30 anos)",
+   "tipo": "Feira",
+   "segmentos": [
+    "Café",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-05-18",
+   "fim": "2027-05-20",
+   "cidade": "Três Pontas",
+   "uf": "MG",
+   "local": "Aeroporto Municipal de Três Pontas",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.expocafeoficial.com.br/",
+   "organizador": "Cocatrel, UFLA, Emater-MG e Prefeitura de Três Pontas",
+   "lat": -21.37,
+   "lon": -45.51
   }
  ]
 }
