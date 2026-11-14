@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-14T07:39:23-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-14T13:44:57-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -127,6 +127,25 @@
    "organizador": "",
    "lat": -13.34,
    "lon": -44.16
+  },
+  {
+   "id": "dia-de-campo-de-verao-embrapa-soja-2026",
+   "nome": "Dia de Campo de Verão Embrapa Soja 2026",
+   "tipo": "Dia de campo",
+   "segmentos": [
+    "Grãos"
+   ],
+   "inicio": "2026-03-06",
+   "fim": "2026-03-06",
+   "cidade": "Londrina",
+   "uf": "PR",
+   "local": "Vitrine de Tecnologias da Embrapa Soja (Rod. Carlos João Strass, s/n)",
+   "preco": "Gratuito, com inscrição",
+   "gratuito": true,
+   "link": "https://www.revistacultivar.com.br/noticias/embrapa-soja-promove-dia-de-campo-de-verao",
+   "organizador": "Embrapa Soja",
+   "lat": -23.31,
+   "lon": -51.16
   },
   {
    "id": "congresso-apa-ovos-2026",
@@ -411,6 +430,25 @@
    "organizador": "Agrishow",
    "lat": -21.18,
    "lon": -47.81
+  },
+  {
+   "id": "2-dia-de-campo-palhada-soja-2026",
+   "nome": "2º Dia de Campo + Palhada + Soja",
+   "tipo": "Dia de campo",
+   "segmentos": [
+    "Grãos"
+   ],
+   "inicio": "2026-05-04",
+   "fim": "2026-05-04",
+   "cidade": "Paraíso do Tocantins",
+   "uf": "TO",
+   "local": "Fazenda Invernadinha (km 35 da estrada Palmas–Paraíso)",
+   "preco": "Gratuito, com inscrição",
+   "gratuito": true,
+   "link": "https://www.conexaoto.com.br/2026/04/30/aprosoja-tocantins-convida-produtores-para-dia-de-campo-em-paraiso-do-tocantins",
+   "organizador": "Embrapa, Agrícola Invernadinha e Aprosoja Tocantins",
+   "lat": -10.175,
+   "lon": -48.882
   },
   {
    "id": "expoingá-2026",
@@ -736,6 +774,27 @@
    "lon": -43.94
   },
   {
+   "id": "agrosamas-2026",
+   "nome": "Agrosamas 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Pecuária de corte",
+    "Grãos",
+    "Gestão e mercado"
+   ],
+   "inicio": "2026-06-04",
+   "fim": "2026-06-06",
+   "cidade": "São Mateus do Maranhão",
+   "uf": "MA",
+   "local": "São Mateus do Maranhão (inclui 2º Encontro de Produtores Rurais em 5/6)",
+   "preco": "Consulte o organizador; cursos gratuitos",
+   "gratuito": false,
+   "link": "https://cnabrasil.org.br/noticias/agrosamas-2026-tera-encontro-de-produtores-rurais-cursos-e-vitrines-tecnologicas-em-sao-mateus-do-maranhao",
+   "organizador": "Sindicato Rural de São Mateus, com Sistema Faema/Senar e Sebrae",
+   "lat": -4.04,
+   "lon": -44.47
+  },
+  {
    "id": "bahia-farm-show-2026",
    "nome": "Bahia Farm Show 2026",
    "tipo": "Feira",
@@ -773,6 +832,26 @@
    "organizador": "Aquishow Brasil",
    "lat": -18.92,
    "lon": -48.28
+  },
+  {
+   "id": "23-agro-centro-oeste-familiar-2026",
+   "nome": "23ª Agro Centro-Oeste Familiar",
+   "tipo": "Feira",
+   "segmentos": [
+    "Hortifrúti e flores",
+    "Gestão e mercado"
+   ],
+   "inicio": "2026-06-17",
+   "fim": "2026-06-20",
+   "cidade": "Goiânia",
+   "uf": "GO",
+   "local": "Centro de Cultura e Eventos Prof. Ricardo Freua Bufáiçal, Campus Samambaia da UFG",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://tribunadoplanalto.com.br/saiba-quando-comeca-e-onde-sera-a-23a-agro-centro-oeste-familiar/",
+   "organizador": "UFG e instituições parceiras",
+   "lat": -16.68,
+   "lon": -49.25
   },
   {
    "id": "31ª-hortitec",
@@ -1287,6 +1366,25 @@
    "lon": -39.05
   },
   {
+   "id": "43-expoflora-2026",
+   "nome": "43ª Expoflora",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Hortifrúti e flores"
+   ],
+   "inicio": "2026-08-28",
+   "fim": "2026-09-27",
+   "cidade": "Holambra",
+   "uf": "SP",
+   "local": "Parque da Expoflora (sextas, sábados, domingos e 7 de setembro)",
+   "preco": "Ingressos pagos, valores por data e lote",
+   "gratuito": false,
+   "link": "https://www.expoflora.com.br/",
+   "organizador": "Expoflora / comunidade de Holambra",
+   "lat": -22.633,
+   "lon": -47.056
+  },
+  {
    "id": "expointer-2026",
    "nome": "Expointer 2026",
    "tipo": "Exposição",
@@ -1649,6 +1747,26 @@
    "lon": -46.63
   },
   {
+   "id": "agrofest-caparao-2026",
+   "nome": "4ª Agrofest Caparaó 2026 – Feira da Agricultura Familiar e Agronegócio",
+   "tipo": "Feira",
+   "segmentos": [
+    "Café",
+    "Hortifrúti e flores"
+   ],
+   "inicio": "2026-11-06",
+   "fim": "2026-11-08",
+   "cidade": "Muniz Freire",
+   "uf": "ES",
+   "local": "Parque de Exposições de Muniz Freire",
+   "preco": "Entrada gratuita",
+   "gratuito": true,
+   "link": "https://aquinoticias.com/2026/11/agrofest-caparao-2026-tera-tres-dias-de-shows-e-atracoes-gratuitas-em-muniz-freire/",
+   "organizador": "Dupla Produções, Sindicato dos Trabalhadores e Agricultores Familiares de Muniz Freire e Prefeitura",
+   "lat": -20.46,
+   "lon": -41.41
+  },
+  {
    "id": "conacredi-agro-2026",
    "nome": "Conacredi Agro 2026 – Congresso Nacional de Crédito no Agronegócio",
    "tipo": "Congresso",
@@ -1791,6 +1909,45 @@
    "lon": -48.93
   },
   {
+   "id": "1-feira-agroexperts-amparo-aves-2026",
+   "nome": "1ª Feira AgroExperts Amparo – Aves",
+   "tipo": "Feira",
+   "segmentos": [
+    "Aves e suínos"
+   ],
+   "inicio": "2026-11-13",
+   "fim": "2026-11-13",
+   "cidade": "Amparo",
+   "uf": "SP",
+   "local": "Feira do Produtor (Av. Raul de Oliveira Fagundes, s/nº, Centro)",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://abpa-br.org/agenda-de-eventos-do-setor/",
+   "organizador": "AgroExperts",
+   "lat": -22.7,
+   "lon": -46.77
+  },
+  {
+   "id": "citagro-2026",
+   "nome": "CITAGRO 2026 – Cúpula da Inovação e Tecnologia do Agro Brasileiro",
+   "tipo": "Encontro",
+   "segmentos": [
+    "Gestão e mercado",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2026-11-16",
+   "fim": "2026-11-16",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "São Paulo (local a confirmar pelo organizador)",
+   "preco": "Somente convidados (300 vagas)",
+   "gratuito": false,
+   "link": "https://brasilagro.com.br/conteudo/sao-paulo-sediara-a-cupula-da-inovacao-e-tecnologia-do-agro-brasileiro.html",
+   "organizador": "BrasilAgro",
+   "lat": -23.55,
+   "lon": -46.63
+  },
+  {
    "id": "fenacam-2026",
    "nome": "Fenacam 2026 – Feira Nacional do Camarão",
    "tipo": "Feira",
@@ -1891,6 +2048,25 @@
    "lon": -48.55
   },
   {
+   "preco": "Inscrição pelo Sympla",
+   "gratuito": false,
+   "id": "3-seminario-suinocultura-mt-2026",
+   "nome": "3º Seminário da Suinocultura de Mato Grosso",
+   "tipo": "Encontro",
+   "segmentos": [
+    "Aves e suínos"
+   ],
+   "inicio": "2026-12-01",
+   "fim": "2026-12-01",
+   "cidade": "Cuiabá",
+   "uf": "MT",
+   "local": "Centro de Eventos do Pantanal",
+   "link": "https://www.sympla.com.br/evento/3-seminario-da-suinocultura-de-mato-grosso/3633375",
+   "organizador": "Consulte a página do evento",
+   "lat": -15.6,
+   "lon": -56.1
+  },
+  {
    "id": "dia-de-campo-cvale-2026",
    "nome": "Dia de Campo C.Vale 2026",
    "tipo": "Dia de campo",
@@ -1910,25 +2086,6 @@
    "organizador": "C.Vale Cooperativa Agroindustrial",
    "lat": -24.29,
    "lon": -53.84
-  },
-  {
-   "preco": "Inscrição pelo Sympla",
-   "gratuito": false,
-   "id": "3-seminario-suinocultura-mt-2026",
-   "nome": "3º Seminário da Suinocultura de Mato Grosso",
-   "tipo": "Encontro",
-   "segmentos": [
-    "Aves e suínos"
-   ],
-   "inicio": "2026-12-01",
-   "fim": "2026-12-01",
-   "cidade": "Cuiabá",
-   "uf": "MT",
-   "local": "Centro de Eventos do Pantanal",
-   "link": "https://www.sympla.com.br/evento/3-seminario-da-suinocultura-de-mato-grosso/3633375",
-   "organizador": "Consulte a página do evento",
-   "lat": -15.6,
-   "lon": -56.1
   },
   {
    "id": "agroshow-copagril-2027",
@@ -2221,25 +2378,24 @@
    "lon": -55.91
   },
   {
-   "id": "fira-2027",
-   "nome": "FIRA 2027 – Feira da Indústria de Reciclagem Animal",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "id": "expocanas-2027",
+   "nome": "Expocanas 2027",
    "tipo": "Feira",
    "segmentos": [
-    "Aves e suínos",
-    "Pecuária de corte",
+    "Cana e bioenergia",
     "Máquinas e tecnologia"
    ],
    "inicio": "2027-03-23",
    "fim": "2027-03-25",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "local": "Distrito Anhembi (junto à Expomeat)",
-   "preco": "Credenciamento de visitantes aberto no site",
-   "gratuito": false,
-   "link": "https://www.fira.net.br/",
-   "organizador": "FIRA / Expomeat",
-   "lat": -23.55,
-   "lon": -46.63
+   "cidade": "Nova Alvorada do Sul",
+   "uf": "MS",
+   "local": "A confirmar no site",
+   "link": "https://expocanas.com/",
+   "organizador": "Expocanas",
+   "lat": -21.47,
+   "lon": -54.38
   },
   {
    "preco": "Consulte no site oficial",
@@ -2263,24 +2419,25 @@
    "lon": -46.63
   },
   {
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "id": "expocanas-2027",
-   "nome": "Expocanas 2027",
+   "id": "fira-2027",
+   "nome": "FIRA 2027 – Feira da Indústria de Reciclagem Animal",
    "tipo": "Feira",
    "segmentos": [
-    "Cana e bioenergia",
+    "Aves e suínos",
+    "Pecuária de corte",
     "Máquinas e tecnologia"
    ],
    "inicio": "2027-03-23",
    "fim": "2027-03-25",
-   "cidade": "Nova Alvorada do Sul",
-   "uf": "MS",
-   "local": "A confirmar no site",
-   "link": "https://expocanas.com/",
-   "organizador": "Expocanas",
-   "lat": -21.47,
-   "lon": -54.38
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Distrito Anhembi (junto à Expomeat)",
+   "preco": "Credenciamento de visitantes aberto no site",
+   "gratuito": false,
+   "link": "https://www.fira.net.br/",
+   "organizador": "FIRA / Expomeat",
+   "lat": -23.55,
+   "lon": -46.63
   },
   {
    "id": "farm-show-2027",
@@ -2461,6 +2618,26 @@
    "organizador": "Sociedade Rural do Paraná",
    "lat": -23.31,
    "lon": -51.16
+  },
+  {
+   "id": "parecis-superagro-2027",
+   "nome": "18ª Parecis SuperAgro 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-04-14",
+   "fim": "2027-04-16",
+   "cidade": "Campo Novo do Parecis",
+   "uf": "MT",
+   "local": "A confirmar no site",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.noticiasagricolas.com.br/noticias/agronegocio/419331-definitivamente-somos-um-territorio-de-gigantes-enfatiza-brolio-ao-encerrar-parecis-super-agro-2026-com-anuncio-das-datas-das-proximas-tres-edicoes.html",
+   "organizador": "Sindicato Rural de Campo Novo do Parecis",
+   "lat": -13.67,
+   "lon": -57.89
   },
   {
    "id": "favesu-2027",
@@ -2664,6 +2841,26 @@
    "lon": -46.63
   },
   {
+   "id": "fenasul-expoleite-2027",
+   "nome": "Fenasul Expoleite 2027",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Leite",
+    "Pecuária de corte"
+   ],
+   "inicio": "2027-05-12",
+   "fim": "2027-05-16",
+   "cidade": "Esteio",
+   "uf": "RS",
+   "local": "Parque de Exposições Assis Brasil",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.radiopampa.com.br/fenasul-e-expoleite-2027-sao-lancadas-na-expointer-com-foco-em-integracao-e-avanco-tecnico-da-pecuaria-leiteira/",
+   "organizador": "Governo do RS (Seapi) e Gadolando",
+   "lat": -29.85,
+   "lon": -51.18
+  },
+  {
    "id": "agrobrasília-2027",
    "nome": "AgroBrasília 2027",
    "tipo": "Feira",
@@ -2683,6 +2880,26 @@
    "organizador": "Coopa-DF",
    "lat": -15.79,
    "lon": -47.88
+  },
+  {
+   "id": "expocafé-2027",
+   "nome": "Expocafé 2027 (30 anos)",
+   "tipo": "Feira",
+   "segmentos": [
+    "Café",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-05-18",
+   "fim": "2027-05-20",
+   "cidade": "Três Pontas",
+   "uf": "MG",
+   "local": "Aeroporto Municipal de Três Pontas",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.expocafeoficial.com.br/",
+   "organizador": "Cocatrel, UFLA, Emater-MG e Prefeitura de Três Pontas",
+   "lat": -21.37,
+   "lon": -45.51
   },
   {
    "id": "sinsui-2027",
@@ -3029,6 +3246,25 @@
    "lon": -51.18
   },
   {
+   "id": "1-conferencia-nacional-de-direito-e-agronegocio-2027",
+   "nome": "1ª Conferência Nacional de Direito e Agronegócio",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Gestão e mercado"
+   ],
+   "inicio": "2027-09-02",
+   "fim": "2027-09-03",
+   "cidade": "Ribeirão Preto",
+   "uf": "SP",
+   "local": "Local a confirmar pelo organizador",
+   "preco": "Programação e inscrições a divulgar",
+   "gratuito": false,
+   "link": "https://agrorevenda.com.br/noticia/oab-sp-anuncia-1a-conferencia-nacional-de-direito-e-agronegocio-em-ribeirao-preto/",
+   "organizador": "OAB SP",
+   "lat": -21.18,
+   "lon": -47.81
+  },
+  {
    "id": "porkexpo-2027",
    "nome": "PorkExpo 2027",
    "tipo": "Congresso",
@@ -3067,165 +3303,6 @@
    "organizador": "Fruit Brasil",
    "lat": -22.74,
    "lon": -47.33
-  },
-  {
-   "id": "agrosamas-2026",
-   "nome": "Agrosamas 2026",
-   "tipo": "Feira",
-   "segmentos": [
-    "Pecuária de corte",
-    "Grãos",
-    "Gestão e mercado"
-   ],
-   "inicio": "2026-06-04",
-   "fim": "2026-06-06",
-   "cidade": "São Mateus do Maranhão",
-   "uf": "MA",
-   "local": "São Mateus do Maranhão (inclui 2º Encontro de Produtores Rurais em 5/6)",
-   "preco": "Consulte o organizador; cursos gratuitos",
-   "gratuito": false,
-   "link": "https://cnabrasil.org.br/noticias/agrosamas-2026-tera-encontro-de-produtores-rurais-cursos-e-vitrines-tecnologicas-em-sao-mateus-do-maranhao",
-   "organizador": "Sindicato Rural de São Mateus, com Sistema Faema/Senar e Sebrae",
-   "lat": -4.04,
-   "lon": -44.47
-  },
-  {
-   "id": "23-agro-centro-oeste-familiar-2026",
-   "nome": "23ª Agro Centro-Oeste Familiar",
-   "tipo": "Feira",
-   "segmentos": [
-    "Hortifrúti e flores",
-    "Gestão e mercado"
-   ],
-   "inicio": "2026-06-17",
-   "fim": "2026-06-20",
-   "cidade": "Goiânia",
-   "uf": "GO",
-   "local": "Centro de Cultura e Eventos Prof. Ricardo Freua Bufáiçal, Campus Samambaia da UFG",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://tribunadoplanalto.com.br/saiba-quando-comeca-e-onde-sera-a-23a-agro-centro-oeste-familiar/",
-   "organizador": "UFG e instituições parceiras",
-   "lat": -16.68,
-   "lon": -49.25
-  },
-  {
-   "id": "agrofest-caparao-2026",
-   "nome": "4ª Agrofest Caparaó 2026 – Feira da Agricultura Familiar e Agronegócio",
-   "tipo": "Feira",
-   "segmentos": [
-    "Café",
-    "Hortifrúti e flores"
-   ],
-   "inicio": "2026-11-06",
-   "fim": "2026-11-08",
-   "cidade": "Muniz Freire",
-   "uf": "ES",
-   "local": "Parque de Exposições de Muniz Freire",
-   "preco": "Entrada gratuita",
-   "gratuito": true,
-   "link": "https://aquinoticias.com/2026/11/agrofest-caparao-2026-tera-tres-dias-de-shows-e-atracoes-gratuitas-em-muniz-freire/",
-   "organizador": "Dupla Produções, Sindicato dos Trabalhadores e Agricultores Familiares de Muniz Freire e Prefeitura",
-   "lat": -20.46,
-   "lon": -41.41
-  },
-  {
-   "id": "fenasul-expoleite-2027",
-   "nome": "Fenasul Expoleite 2027",
-   "tipo": "Exposição",
-   "segmentos": [
-    "Leite",
-    "Pecuária de corte"
-   ],
-   "inicio": "2027-05-12",
-   "fim": "2027-05-16",
-   "cidade": "Esteio",
-   "uf": "RS",
-   "local": "Parque de Exposições Assis Brasil",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://www.radiopampa.com.br/fenasul-e-expoleite-2027-sao-lancadas-na-expointer-com-foco-em-integracao-e-avanco-tecnico-da-pecuaria-leiteira/",
-   "organizador": "Governo do RS (Seapi) e Gadolando",
-   "lat": -29.85,
-   "lon": -51.18
-  },
-  {
-   "id": "1-conferencia-nacional-de-direito-e-agronegocio-2027",
-   "nome": "1ª Conferência Nacional de Direito e Agronegócio",
-   "tipo": "Congresso",
-   "segmentos": [
-    "Gestão e mercado"
-   ],
-   "inicio": "2027-09-02",
-   "fim": "2027-09-03",
-   "cidade": "Ribeirão Preto",
-   "uf": "SP",
-   "local": "Local a confirmar pelo organizador",
-   "preco": "Programação e inscrições a divulgar",
-   "gratuito": false,
-   "link": "https://agrorevenda.com.br/noticia/oab-sp-anuncia-1a-conferencia-nacional-de-direito-e-agronegocio-em-ribeirao-preto/",
-   "organizador": "OAB SP",
-   "lat": -21.18,
-   "lon": -47.81
-  },
-  {
-   "id": "1-feira-agroexperts-amparo-aves-2026",
-   "nome": "1ª Feira AgroExperts Amparo – Aves",
-   "tipo": "Feira",
-   "segmentos": [
-    "Aves e suínos"
-   ],
-   "inicio": "2026-11-13",
-   "fim": "2026-11-13",
-   "cidade": "Amparo",
-   "uf": "SP",
-   "local": "Feira do Produtor (Av. Raul de Oliveira Fagundes, s/nº, Centro)",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://abpa-br.org/agenda-de-eventos-do-setor/",
-   "organizador": "AgroExperts",
-   "lat": -22.7,
-   "lon": -46.77
-  },
-  {
-   "id": "expocafé-2027",
-   "nome": "Expocafé 2027 (30 anos)",
-   "tipo": "Feira",
-   "segmentos": [
-    "Café",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-05-18",
-   "fim": "2027-05-20",
-   "cidade": "Três Pontas",
-   "uf": "MG",
-   "local": "Aeroporto Municipal de Três Pontas",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://www.expocafeoficial.com.br/",
-   "organizador": "Cocatrel, UFLA, Emater-MG e Prefeitura de Três Pontas",
-   "lat": -21.37,
-   "lon": -45.51
-  },
-  {
-   "id": "parecis-superagro-2027",
-   "nome": "18ª Parecis SuperAgro 2027",
-   "tipo": "Feira",
-   "segmentos": [
-    "Grãos",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-04-14",
-   "fim": "2027-04-16",
-   "cidade": "Campo Novo do Parecis",
-   "uf": "MT",
-   "local": "A confirmar no site",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://www.noticiasagricolas.com.br/noticias/agronegocio/419331-definitivamente-somos-um-territorio-de-gigantes-enfatiza-brolio-ao-encerrar-parecis-super-agro-2026-com-anuncio-das-datas-das-proximas-tres-edicoes.html",
-   "organizador": "Sindicato Rural de Campo Novo do Parecis",
-   "lat": -13.67,
-   "lon": -57.89
   }
  ]
 }
