@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-13T13:48:08-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-14T07:39:23-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -3206,6 +3206,26 @@
    "organizador": "Cocatrel, UFLA, Emater-MG e Prefeitura de Três Pontas",
    "lat": -21.37,
    "lon": -45.51
+  },
+  {
+   "id": "parecis-superagro-2027",
+   "nome": "18ª Parecis SuperAgro 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-04-14",
+   "fim": "2027-04-16",
+   "cidade": "Campo Novo do Parecis",
+   "uf": "MT",
+   "local": "A confirmar no site",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.noticiasagricolas.com.br/noticias/agronegocio/419331-definitivamente-somos-um-territorio-de-gigantes-enfatiza-brolio-ao-encerrar-parecis-super-agro-2026-com-anuncio-das-datas-das-proximas-tres-edicoes.html",
+   "organizador": "Sindicato Rural de Campo Novo do Parecis",
+   "lat": -13.67,
+   "lon": -57.89
   }
  ]
 }
