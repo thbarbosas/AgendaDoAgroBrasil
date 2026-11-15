@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-14T13:44:57-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-15T07:46:12-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -451,6 +451,25 @@
    "lon": -48.882
   },
   {
+   "id": "confinar-2026",
+   "nome": "Confinar 2026",
+   "tipo": "Simpósio",
+   "segmentos": [
+    "Pecuária de corte"
+   ],
+   "inicio": "2026-05-05",
+   "fim": "2026-05-06",
+   "cidade": "Campo Grande",
+   "uf": "MS",
+   "local": "Local no site oficial",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.confinar.net.br/",
+   "organizador": "Confinar",
+   "lat": -20.45,
+   "lon": -54.62
+  },
+  {
    "id": "expoingá-2026",
    "nome": "Expoingá 2026",
    "tipo": "Exposição",
@@ -510,6 +529,26 @@
    "organizador": "Associação dos Criadores de Alagoas (ACA)",
    "lat": -9.67,
    "lon": -35.73
+  },
+  {
+   "id": "expocamaqua-2026",
+   "nome": "Expocamaquã 2026",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Grãos",
+    "Pecuária de corte"
+   ],
+   "inicio": "2026-05-11",
+   "fim": "2026-05-17",
+   "cidade": "Camaquã",
+   "uf": "RS",
+   "local": "Local no site oficial",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://expocamaqua.com.br/",
+   "organizador": "Expocamaquã",
+   "lat": -30.85,
+   "lon": -51.81
   },
   {
    "id": "agrotins-2026",
@@ -592,6 +631,26 @@
    "lon": -51.18
   },
   {
+   "id": "herbishow-2026",
+   "nome": "25º Herbishow 2026",
+   "tipo": "Simpósio",
+   "segmentos": [
+    "Grãos",
+    "Cana e bioenergia"
+   ],
+   "inicio": "2026-05-13",
+   "fim": "2026-05-14",
+   "cidade": "Ribeirão Preto",
+   "uf": "SP",
+   "local": "Multiplan Hall",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "http://www.ideaonline.com.br/25herbishow",
+   "organizador": "Grupo IDEA",
+   "lat": -21.18,
+   "lon": -47.81
+  },
+  {
    "id": "acricorte-2026",
    "nome": "Acricorte 2026",
    "tipo": "Encontro",
@@ -651,6 +710,26 @@
    "organizador": "Fundação MS",
    "lat": -21.61,
    "lon": -55.17
+  },
+  {
+   "id": "xxv-seminario-internacional-do-cafe-2026",
+   "nome": "XXV Seminário Internacional do Café",
+   "tipo": "Simpósio",
+   "segmentos": [
+    "Café",
+    "Gestão e mercado"
+   ],
+   "inicio": "2026-05-19",
+   "fim": "2026-05-21",
+   "cidade": "Santos",
+   "uf": "SP",
+   "local": "Santos Convention Center",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.seminariocafesantos.com.br/",
+   "organizador": "Associação Comercial de Santos",
+   "lat": -23.96,
+   "lon": -46.33
   },
   {
    "nome": "Agro Summit 2026",
@@ -1166,6 +1245,26 @@
    "gratuito": false,
    "link": "https://siavs.com.br/",
    "organizador": "ABPA",
+   "lat": -23.55,
+   "lon": -46.63
+  },
+  {
+   "id": "the-brazil-conference-expo-2026",
+   "nome": "The Brazil Conference & Expo 2026",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Hortifrúti e flores",
+    "Gestão e mercado"
+   ],
+   "inicio": "2026-08-04",
+   "fim": "2026-08-05",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Distrito Anhembi",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://freshproduce.com.br/",
+   "organizador": "IFPA (International Fresh Produce Association)",
    "lat": -23.55,
    "lon": -46.63
   },
