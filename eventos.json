@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-16T13:38:19-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-17T07:40:00-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -28,6 +28,25 @@
    "lon": -53.46
   },
   {
+   "id": "3-dia-de-campo-embrapa-uva-e-vinho-2026",
+   "nome": "3º Dia de Campo Institucional da Embrapa Uva e Vinho",
+   "tipo": "Dia de campo",
+   "segmentos": [
+    "Hortifrúti e flores"
+   ],
+   "inicio": "2026-02-10",
+   "fim": "2026-02-12",
+   "cidade": "Bento Gonçalves",
+   "uf": "RS",
+   "local": "Sede da Embrapa Uva e Vinho",
+   "preco": "Gratuito, com inscrição",
+   "gratuito": true,
+   "link": "https://www.embrapa.br/uva-e-vinho/dia-de-campo-2026",
+   "organizador": "Embrapa Uva e Vinho",
+   "lat": -29.17,
+   "lon": -51.52
+  },
+  {
    "id": "12º-coplacampo-2026",
    "nome": "12º Coplacampo",
    "tipo": "Feira",
@@ -47,26 +66,6 @@
    "organizador": "Coplacana",
    "lat": -22.73,
    "lon": -47.65
-  },
-  {
-   "id": "lacte-2026",
-   "nome": "LACTE 2026",
-   "tipo": "Congresso",
-   "segmentos": [
-    "Leite",
-    "Gestão e mercado"
-   ],
-   "inicio": "2026-02-23",
-   "fim": "2026-02-24",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "local": "WTC Events Center",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://www.google.com/search?q=LACTE+2026+São+Paulo",
-   "organizador": "",
-   "lat": -23.55,
-   "lon": -46.63
   },
   {
    "id": "36ª-abertura-oficial-da-colheita-do-arroz-2026",
@@ -611,26 +610,6 @@
    "lon": -38.97
   },
   {
-   "id": "fenasul-expoleite-2026",
-   "nome": "Fenasul Expoleite 2026",
-   "tipo": "Exposição",
-   "segmentos": [
-    "Leite",
-    "Pecuária de corte"
-   ],
-   "inicio": "2026-05-13",
-   "fim": "2026-05-17",
-   "cidade": "Esteio",
-   "uf": "RS",
-   "local": "Parque de Exposições Assis Brasil",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://www.agrolink.com.br/eventos/fenasul-e-expoleite-2026",
-   "organizador": "Governo do RS (Seapi)",
-   "lat": -29.85,
-   "lon": -51.18
-  },
-  {
    "id": "herbishow-2026",
    "nome": "25º Herbishow 2026",
    "tipo": "Simpósio",
@@ -649,6 +628,26 @@
    "organizador": "Grupo IDEA",
    "lat": -21.18,
    "lon": -47.81
+  },
+  {
+   "id": "fenasul-expoleite-2026",
+   "nome": "Fenasul Expoleite 2026",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Leite",
+    "Pecuária de corte"
+   ],
+   "inicio": "2026-05-13",
+   "fim": "2026-05-17",
+   "cidade": "Esteio",
+   "uf": "RS",
+   "local": "Parque de Exposições Assis Brasil",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.agrolink.com.br/eventos/fenasul-e-expoleite-2026",
+   "organizador": "Governo do RS (Seapi)",
+   "lat": -29.85,
+   "lon": -51.18
   },
   {
    "id": "acricorte-2026",
@@ -1566,6 +1565,25 @@
    "lon": -34.86
   },
   {
+   "id": "5-congresso-tecnico-global-cana-2026",
+   "nome": "5º Congresso Técnico Global Cana",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Cana e bioenergia"
+   ],
+   "inicio": "2026-09-03",
+   "fim": "2026-09-03",
+   "cidade": "Ribeirão Preto",
+   "uf": "SP",
+   "local": "A confirmar com o organizador",
+   "preco": "Inscrições pagas; consulte o organizador",
+   "gratuito": false,
+   "link": "https://revistacultivar.com.br/noticias/congresso-tecnico-global-cana-tera-edicao-em-setembro-de-2026",
+   "organizador": "Global Cana",
+   "lat": -21.18,
+   "lon": -47.81
+  },
+  {
    "id": "fórum-pecuária-brasil-2026",
    "nome": "Fórum Pecuária Brasil 2026",
    "tipo": "Encontro",
@@ -2228,28 +2246,6 @@
    "lon": -37.425
   },
   {
-   "id": "itaipu-rural-show-2027",
-   "nome": "28º Itaipu Rural Show",
-   "tipo": "Feira",
-   "segmentos": [
-    "Grãos",
-    "Leite",
-    "Aves e suínos",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-02-17",
-   "fim": "2027-02-20",
-   "cidade": "Pinhalzinho",
-   "uf": "SC",
-   "local": "Parque de Difusão de Tecnologias da Cooperitaipu",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://itaipururalshow.com.br/",
-   "organizador": "Cooperitaipu",
-   "lat": -26.85,
-   "lon": -52.99
-  },
-  {
    "id": "39º-show-rural-coopavel",
    "nome": "39º Show Rural Coopavel",
    "tipo": "Feira",
@@ -2289,6 +2285,28 @@
    "organizador": "Federarroz, Embrapa e Senar-RS",
    "lat": -31.76,
    "lon": -52.48
+  },
+  {
+   "id": "itaipu-rural-show-2027",
+   "nome": "28º Itaipu Rural Show",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Leite",
+    "Aves e suínos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-02-17",
+   "fim": "2027-02-20",
+   "cidade": "Pinhalzinho",
+   "uf": "SC",
+   "local": "Parque de Difusão de Tecnologias da Cooperitaipu",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://itaipururalshow.com.br/",
+   "organizador": "Cooperitaipu",
+   "lat": -26.85,
+   "lon": -52.99
   },
   {
    "id": "31-show-tecnologico-copercampos-2027",
@@ -3320,6 +3338,26 @@
    "organizador": "Associação Catarinense de Avicultura (ACAV)",
    "lat": -27.6,
    "lon": -48.55
+  },
+  {
+   "id": "congresso-avag-80-anos-2027",
+   "nome": "Congresso AvAg 2027 – 80 Anos da Aviação Agrícola do Brasil",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Máquinas e tecnologia",
+    "Grãos"
+   ],
+   "inicio": "2027-08-17",
+   "fim": "2027-08-19",
+   "cidade": "Orlândia",
+   "uf": "SP",
+   "local": "Base da Tangará Aeroagrícola",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://sindag.org.br/",
+   "organizador": "Sindag – Sindicato Nacional das Empresas de Aviação Agrícola",
+   "lat": -20.72,
+   "lon": -47.89
   },
   {
    "id": "50ª-expointer",
