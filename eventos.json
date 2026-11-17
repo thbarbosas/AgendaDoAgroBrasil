@@ -1,11 +1,50 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-17T07:40:00-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-17T13:55:59-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
  "eventos": [
+  {
+   "id": "dinetec-2026",
+   "nome": "Dinetec 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2026-01-14",
+   "fim": "2026-01-16",
+   "cidade": "Canarana",
+   "uf": "MT",
+   "local": "Canarana (MT)",
+   "preco": "Gratuito",
+   "gratuito": true,
+   "link": "https://lp.dinetec.com.br/",
+   "organizador": "Dinetec",
+   "lat": -13.55,
+   "lon": -52.27
+  },
+  {
+   "id": "show-da-soja-2026-itapora",
+   "nome": "Show da Soja 2026",
+   "tipo": "Dia de campo",
+   "segmentos": [
+    "Grãos"
+   ],
+   "inicio": "2026-01-21",
+   "fim": "2026-01-21",
+   "cidade": "Itaporã",
+   "uf": "MS",
+   "local": "Campo da Agro Jangada",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.agrolink.com.br/eventos/show-da-soja-2026",
+   "organizador": "Agro Jangada",
+   "lat": -22.08,
+   "lon": -54.79
+  },
   {
    "id": "38º-show-rural-coopavel",
    "nome": "38º Show Rural Coopavel",
@@ -86,6 +125,26 @@
    "organizador": "Federarroz, Embrapa e Senar-RS",
    "lat": -31.76,
    "lon": -52.48
+  },
+  {
+   "id": "expoagro-cotricampo-2026",
+   "nome": "ExpoAgro Cotricampo 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2026-02-25",
+   "fim": "2026-02-28",
+   "cidade": "Campo Novo",
+   "uf": "RS",
+   "local": "Campo Experimental da Cotricampo",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.instagram.com/expoagro_cotricampo/",
+   "organizador": "Cotricampo",
+   "lat": -27.67,
+   "lon": -53.8
   },
   {
    "id": "ii-inovabio-2026",
@@ -207,6 +266,65 @@
    "lon": -54.3
   },
   {
+   "id": "10-datagro-abertura-safra-cana-2026",
+   "nome": "10ª Datagro Abertura de Safra Cana, Açúcar e Etanol",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Cana e bioenergia",
+    "Gestão e mercado"
+   ],
+   "inicio": "2026-03-11",
+   "fim": "2026-03-12",
+   "cidade": "Ribeirão Preto",
+   "uf": "SP",
+   "local": "Ribeirão Preto (SP)",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.datagroconferences.com/eventos/datagro-abertura-safra-cana-acucar-et",
+   "organizador": "Datagro",
+   "lat": -21.18,
+   "lon": -47.81
+  },
+  {
+   "id": "passarela-da-soja-2026",
+   "nome": "Passarela da Soja, Milho e Culturas Alternativas 2026",
+   "tipo": "Dia de campo",
+   "segmentos": [
+    "Grãos"
+   ],
+   "inicio": "2026-03-14",
+   "fim": "2026-03-14",
+   "cidade": "Luís Eduardo Magalhães",
+   "uf": "BA",
+   "local": "Luís Eduardo Magalhães (BA)",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://fundacaoba.com.br/",
+   "organizador": "Fundação BA",
+   "lat": -12.09,
+   "lon": -45.8
+  },
+  {
+   "id": "27-seminario-mecanizacao-producao-cana-2026",
+   "nome": "27º Seminário de Mecanização e Produção de Cana",
+   "tipo": "Simpósio",
+   "segmentos": [
+    "Cana e bioenergia",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2026-03-18",
+   "fim": "2026-03-19",
+   "cidade": "Ribeirão Preto",
+   "uf": "SP",
+   "local": "Ribeirão Preto (SP)",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "http://www.ideaonline.com.br/27mecanizacao",
+   "organizador": "Grupo IDEA",
+   "lat": -21.18,
+   "lon": -47.81
+  },
+  {
    "id": "femec-2026",
    "nome": "Femec 2026",
    "tipo": "Feira",
@@ -267,6 +385,26 @@
    "organizador": "Afubra",
    "lat": -29.99,
    "lon": -52.38
+  },
+  {
+   "id": "expocanas-2026",
+   "nome": "Expocanas 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Cana e bioenergia",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2026-03-25",
+   "fim": "2026-03-27",
+   "cidade": "Nova Alvorada do Sul",
+   "uf": "MS",
+   "local": "Nova Alvorada do Sul (MS)",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://expocanas.com/",
+   "organizador": "Expocanas",
+   "lat": -21.47,
+   "lon": -54.38
   },
   {
    "id": "23ª-tecnoshow-comigo",
@@ -370,6 +508,27 @@
    "lon": -57.89
   },
   {
+   "id": "minas-agro-tech-2026",
+   "nome": "Minas Agro Tech 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Café",
+    "Máquinas e tecnologia",
+    "Grãos"
+   ],
+   "inicio": "2026-04-15",
+   "fim": "2026-04-18",
+   "cidade": "Varginha",
+   "uf": "MG",
+   "local": "Varginha (MG)",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "http://www.minasagrotech.com.br/",
+   "organizador": "Minas Agro Tech",
+   "lat": -21.55,
+   "lon": -45.43
+  },
+  {
    "id": "norte-show-2026",
    "nome": "Norte Show 2026",
    "tipo": "Feira",
@@ -429,6 +588,26 @@
    "organizador": "Agrishow",
    "lat": -21.18,
    "lon": -47.81
+  },
+  {
+   "id": "fenasoja-2026",
+   "nome": "Fenasoja 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2026-05-01",
+   "fim": "2026-05-10",
+   "cidade": "Santa Rosa",
+   "uf": "RS",
+   "local": "Parque de Exposições Alfredo Leandro Carlson",
+   "preco": "Ingressos em divingressos.com.br",
+   "gratuito": false,
+   "link": "https://fenasoja.com.br/",
+   "organizador": "Fenasoja",
+   "lat": -27.87,
+   "lon": -54.48
   },
   {
    "id": "2-dia-de-campo-palhada-soja-2026",
