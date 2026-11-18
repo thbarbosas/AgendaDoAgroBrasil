@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-17T13:55:59-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-18T07:50:12-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -3618,6 +3618,46 @@
    "organizador": "Fruit Brasil",
    "lat": -22.74,
    "lon": -47.33
+  },
+  {
+   "id": "expofeira-santa-margarida-do-sul-2026",
+   "nome": "27ª Expofeira de Santa Margarida do Sul",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Pecuária de corte",
+    "Grãos"
+   ],
+   "inicio": "2026-12-03",
+   "fim": "2026-12-06",
+   "cidade": "Santa Margarida do Sul",
+   "uf": "RS",
+   "local": "Santa Margarida do Sul (RS)",
+   "preco": "Consulte a prefeitura",
+   "gratuito": false,
+   "link": "https://www.coisasdaroca.com/feiras-agropecuarias/expofeira-2026.html",
+   "organizador": "Prefeitura de Santa Margarida do Sul",
+   "lat": -30.34,
+   "lon": -54.08
+  },
+  {
+   "id": "expocachaca-2027",
+   "nome": "36ª ExpoCachaça 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Cana e bioenergia",
+    "Gestão e mercado"
+   ],
+   "inicio": "2027-08-12",
+   "fim": "2027-08-14",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "local": "Center Minas Expo",
+   "preco": "Ingressos no site",
+   "gratuito": false,
+   "link": "https://www.expocachaca.com.br/",
+   "organizador": "ExpoCachaça",
+   "lat": -19.92,
+   "lon": -43.94
   }
  ]
 }
