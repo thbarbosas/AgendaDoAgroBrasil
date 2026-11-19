@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-18T13:39:21-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-19T07:44:35-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -3638,6 +3638,26 @@
    "organizador": "ExpoCachaça",
    "lat": -19.92,
    "lon": -43.94
+  },
+  {
+   "id": "citagro-2027",
+   "nome": "CITAGRO 2027 – Cúpula da Inovação e Tecnologia do Agro Brasileiro",
+   "tipo": "Encontro",
+   "segmentos": [
+    "Gestão e mercado",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-04-25",
+   "fim": "2027-04-25",
+   "cidade": "Ribeirão Preto",
+   "uf": "SP",
+   "local": "Fazenda Santa Rita, Bonfim Paulista (véspera da Agrishow 2027)",
+   "preco": "Inscrição com o organizador (info@brasilagro.com.br)",
+   "gratuito": false,
+   "link": "https://brasilagro.com.br/documentos/CITAGRO_2027_Apresentacao_Institucional_atualizada.pdf",
+   "organizador": "BrasilAgro",
+   "lat": -21.18,
+   "lon": -47.81
   }
  ]
 }
