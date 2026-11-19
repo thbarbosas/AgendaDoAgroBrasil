@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-19T07:44:35-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-19T13:45:02-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -3656,6 +3656,46 @@
    "gratuito": false,
    "link": "https://brasilagro.com.br/documentos/CITAGRO_2027_Apresentacao_Institucional_atualizada.pdf",
    "organizador": "BrasilAgro",
+   "lat": -21.18,
+   "lon": -47.81
+  },
+  {
+   "id": "conecta-agro-2026",
+   "nome": "Conecta Agro 2026 (CCAgro)",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Gestão e mercado",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2026-11-24",
+   "fim": "2026-11-25",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "São Paulo Expo",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://visitesaopaulo.com/evento/conecta-agro-2026-2026/",
+   "organizador": "GPO Conecta",
+   "lat": -23.55,
+   "lon": -46.63
+  },
+  {
+   "id": "xiii-congresso-paulista-de-agronomia-2026",
+   "nome": "XIII Congresso Paulista de Agronomia",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Grãos",
+    "Gestão e mercado"
+   ],
+   "inicio": "2026-10-22",
+   "fim": "2026-10-22",
+   "cidade": "Ribeirão Preto",
+   "uf": "SP",
+   "local": "Sede da AEAARP",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://agrolink.com.br/noticias/congresso-paulista-de-agronomia-debate-futuro-do-agro_519694.html",
+   "organizador": "AEASP e AEAARP",
    "lat": -21.18,
    "lon": -47.81
   }
