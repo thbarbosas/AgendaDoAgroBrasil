@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-21T07:39:15-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-21T13:39:27-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -3698,6 +3698,47 @@
    "organizador": "AEASP e AEAARP",
    "lat": -21.18,
    "lon": -47.81
+  },
+  {
+   "id": "dinetec-2027",
+   "nome": "Dinetec 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-01-13",
+   "fim": "2027-01-15",
+   "cidade": "Canarana",
+   "uf": "MT",
+   "local": "Área do Dinetec, junto ao aeroporto Meta – Canarana (MT)",
+   "preco": "Gratuito",
+   "gratuito": true,
+   "link": "https://www.dinetec.com.br/canarana/",
+   "organizador": "Meta Consultoria Agrícola",
+   "lat": -13.55,
+   "lon": -52.27
+  },
+  {
+   "id": "zootec-2027",
+   "nome": "Zootec 2027 – Congresso Brasileiro de Zootecnia (30 anos)",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Pecuária de corte",
+    "Leite",
+    "Aves e suínos"
+   ],
+   "inicio": "2027-05-18",
+   "fim": "2027-05-21",
+   "cidade": "Teresina",
+   "uf": "PI",
+   "local": "Centro de Eventos João Claudino Fernandes",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.instagram.com/zootec.oficial/",
+   "organizador": "Zootec",
+   "lat": -5.09,
+   "lon": -42.8
   }
  ]
 }
