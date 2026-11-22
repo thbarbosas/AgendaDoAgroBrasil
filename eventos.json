@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-21T13:39:27-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-22T07:45:54-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -3739,6 +3739,27 @@
    "organizador": "Zootec",
    "lat": -5.09,
    "lon": -42.8
+  },
+  {
+   "id": "agroponte-2027",
+   "nome": "16ª Feira AgroPonte",
+   "tipo": "Feira",
+   "segmentos": [
+    "Pecuária de corte",
+    "Leite",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-08-11",
+   "fim": "2027-08-15",
+   "cidade": "Criciúma",
+   "uf": "SC",
+   "local": "Pavilhão José Ijair Conti",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://ndmais.com.br/arquitetura-e-decoracao/feiras-casapronta-e-agroponte-ja-tem-datas-definidas-para-2027/",
+   "organizador": "Nossacasa Feiras e Eventos",
+   "lat": -28.68,
+   "lon": -49.37
   }
  ]
 }
