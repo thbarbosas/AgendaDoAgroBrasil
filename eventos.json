@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-23T13:38:50-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-24T07:37:58-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -3780,6 +3780,46 @@
    "organizador": "Sindicato Rural de Campo Novo do Parecis",
    "lat": -13.67,
    "lon": -57.89
+  },
+  {
+   "id": "coffee-latam-2026",
+   "nome": "Coffee LATAM 2026",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Café",
+    "Gestão e mercado"
+   ],
+   "inicio": "2026-07-27",
+   "fim": "2026-07-28",
+   "cidade": "Campinas",
+   "uf": "SP",
+   "local": "Royal Palm Hall",
+   "preco": "Inscrição paga (consulte o site)",
+   "gratuito": false,
+   "link": "https://informaconnect.com/coffee-latam/br/",
+   "organizador": "Informa Connect / New Ag International",
+   "lat": -22.9056,
+   "lon": -47.0608
+  },
+  {
+   "id": "coffee-latam-2027",
+   "nome": "Coffee LATAM & Cafe World Summit 2027",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Café",
+    "Gestão e mercado"
+   ],
+   "inicio": "2027-09-02",
+   "fim": "2027-09-03",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "A confirmar",
+   "preco": "Inscrição paga (consulte o site)",
+   "gratuito": false,
+   "link": "https://informaconnect.com/coffee-latam/br/",
+   "organizador": "Informa Connect / New Ag International",
+   "lat": -22.9068,
+   "lon": -43.1729
   }
  ]
 }
