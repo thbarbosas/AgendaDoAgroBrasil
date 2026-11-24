@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-24T07:37:58-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-24T13:39:58-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -2686,9 +2686,9 @@
    "fim": "2027-03-25",
    "cidade": "Nova Alvorada do Sul",
    "uf": "MS",
-   "local": "A confirmar no site",
+   "local": "Parque de Exposição Multissetorial (margens da BR-163)",
    "link": "https://expocanas.com/",
-   "organizador": "Expocanas",
+   "organizador": "Sulcanas (Associação Sul-Mato-Grossense dos Fornecedores de Cana)",
    "lat": -21.47,
    "lon": -54.38
   },
@@ -3820,6 +3820,27 @@
    "organizador": "Informa Connect / New Ag International",
    "lat": -22.9068,
    "lon": -43.1729
+  },
+  {
+   "id": "expoumuarama-2027",
+   "nome": "ExpoUmuarama 2027",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Pecuária de corte",
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-03-11",
+   "fim": "2027-03-21",
+   "cidade": "Umuarama",
+   "uf": "PR",
+   "local": "Parque de Exposições Dario Pimenta da Nóbrega",
+   "preco": "Ingressos avulsos e passaportes para shows pela Q2 Ingressos",
+   "gratuito": false,
+   "link": "https://q2ingressos.com.br/eventgroup/expo-umuarama-2027",
+   "organizador": "Sociedade Rural de Umuarama",
+   "lat": -23.766,
+   "lon": -53.325
   }
  ]
 }
