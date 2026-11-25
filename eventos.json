@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-25T07:39:23-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-25T13:39:57-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -3821,6 +3821,137 @@
    "organizador": "Sociedade Rural de Umuarama",
    "lat": -23.766,
    "lon": -53.325
+  },
+  {
+   "id": "13º-coplacampo-2027",
+   "nome": "13º Coplacampo",
+   "tipo": "Feira",
+   "segmentos": [
+    "Cana e bioenergia",
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-02-01",
+   "fim": "2027-02-28",
+   "cidade": "Piracicaba",
+   "uf": "SP",
+   "local": "Rodovia do Açúcar SP-308, km 157 (Bairro Taquaral)",
+   "preco": "Entrada gratuita com inscrição antecipada",
+   "gratuito": true,
+   "link": "https://www.google.com/search?q=Coplacampo+2027+Piracicaba",
+   "organizador": "Coplacana",
+   "lat": -22.73,
+   "lon": -47.65,
+   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: fevereiro"
+  },
+  {
+   "id": "92ª-expozebu-2027",
+   "nome": "92ª ExpoZebu",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Pecuária de corte",
+    "Gestão e mercado"
+   ],
+   "inicio": "2027-04-01",
+   "fim": "2027-05-31",
+   "cidade": "Uberaba",
+   "uf": "MG",
+   "local": "Parque Fernando Costa",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.expozebu.com.br/",
+   "organizador": "ABCZ",
+   "lat": -19.75,
+   "lon": -47.93,
+   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: final de abril e início de maio"
+  },
+  {
+   "id": "agrotins-2027",
+   "nome": "27ª Agrotins",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Pecuária de corte",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-05-01",
+   "fim": "2027-05-31",
+   "cidade": "Palmas",
+   "uf": "TO",
+   "local": "Parque Agrotecnológico Eng. Agrônomo Mauro Mendanha",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://www.google.com/search?q=Agrotins+2027+Palmas",
+   "organizador": "Governo do Tocantins (Seagro)",
+   "lat": -10.18,
+   "lon": -48.33,
+   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: maio"
+  },
+  {
+   "id": "14ª-rondônia-rural-show-internacional-2027",
+   "nome": "14ª Rondônia Rural Show Internacional",
+   "tipo": "Feira",
+   "segmentos": [
+    "Pecuária de corte",
+    "Leite",
+    "Grãos",
+    "Café",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-05-01",
+   "fim": "2027-05-31",
+   "cidade": "Ji-Paraná",
+   "uf": "RO",
+   "local": "Centro Tecnológico Vandeci Rack",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.google.com/search?q=Rond%C3%B4nia+Rural+Show+Internacional+2027",
+   "organizador": "Governo de Rondônia (Seagri)",
+   "lat": -10.88,
+   "lon": -61.95,
+   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: maio"
+  },
+  {
+   "id": "avesui-2027",
+   "nome": "AveSui 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Aves e suínos",
+    "Pescado"
+   ],
+   "inicio": "2027-10-01",
+   "fim": "2027-10-31",
+   "cidade": "Cascavel",
+   "uf": "PR",
+   "local": "Centro de Convenções e Eventos de Cascavel (a confirmar)",
+   "preco": "Credenciamento no site",
+   "gratuito": false,
+   "link": "https://avesui.com.br/",
+   "organizador": "Gessulli Agribusiness",
+   "lat": -24.96,
+   "lon": -53.46,
+   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: outubro"
+  },
+  {
+   "id": "semana-internacional-do-café-2027",
+   "nome": "Semana Internacional do Café 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Café",
+    "Gestão e mercado"
+   ],
+   "inicio": "2027-11-01",
+   "fim": "2027-11-30",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "local": "A confirmar no site",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://semanainternacionaldocafe.com.br/",
+   "organizador": "SIC",
+   "lat": -19.92,
+   "lon": -43.94,
+   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: novembro"
   }
  ]
 }
