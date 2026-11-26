@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-25T13:39:57-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-26T07:44:44-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -3952,6 +3952,104 @@
    "lat": -19.92,
    "lon": -43.94,
    "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: novembro"
+  },
+  {
+   "id": "confinar-2027",
+   "nome": "Confinar 2027",
+   "tipo": "Simpósio",
+   "segmentos": [
+    "Pecuária de corte"
+   ],
+   "inicio": "2027-05-11",
+   "fim": "2027-05-12",
+   "cidade": "Campo Grande",
+   "uf": "MS",
+   "local": "Shopping Bosque dos Ipês",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.confinar.net.br/",
+   "organizador": "Confinar",
+   "lat": -20.45,
+   "lon": -54.62
+  },
+  {
+   "id": "expocitros-2027",
+   "nome": "52ª Expocitros e Semana da Citricultura 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Hortifrúti e flores"
+   ],
+   "inicio": "2027-06-01",
+   "fim": "2027-06-04",
+   "cidade": "Cordeirópolis",
+   "uf": "SP",
+   "local": "Centro de Citricultura Sylvio Moreira (IAC)",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.coisasdaroca.com/feiras-agropecuarias/expocitros-2027.html",
+   "organizador": "IAC – Centro de Citricultura Sylvio Moreira",
+   "lat": -22.48,
+   "lon": -47.46
+  },
+  {
+   "id": "expo-cocari-2027",
+   "nome": "Expo Cocari 2027",
+   "tipo": "Dia de campo",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-01-26",
+   "fim": "2027-01-28",
+   "cidade": "Mandaguari",
+   "uf": "PR",
+   "local": "Campo experimental da Cocari",
+   "preco": "Consulte no site oficial",
+   "gratuito": true,
+   "link": "https://www.cocari.com.br/",
+   "organizador": "Cocari",
+   "lat": -23.55,
+   "lon": -51.67
+  },
+  {
+   "id": "show-rural-colider-2027",
+   "nome": "Show Rural Colíder 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Pecuária de corte",
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-04-07",
+   "fim": "2027-04-10",
+   "cidade": "Colíder",
+   "uf": "MT",
+   "local": "A confirmar pelo organizador",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.passeios.org/eventos/show-rural-colider-2027/",
+   "organizador": "Sindicato Rural de Colíder",
+   "lat": -10.81,
+   "lon": -55.46
+  },
+  {
+   "id": "femaca-2027",
+   "nome": "Femaçã 2027 – Feira Nacional da Maçã",
+   "tipo": "Feira",
+   "segmentos": [
+    "Hortifrúti e flores"
+   ],
+   "inicio": "2027-04-09",
+   "fim": "2027-04-18",
+   "cidade": "Veranópolis",
+   "uf": "RS",
+   "local": "Parque de Exposições José Bin",
+   "preco": "Ingressos a divulgar",
+   "gratuito": false,
+   "link": "https://www.femaca.com.br/",
+   "organizador": "Comissão organizadora da Femaçã",
+   "lat": -28.94,
+   "lon": -51.55
   }
  ]
 }
