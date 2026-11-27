@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-27T07:39:35-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-27T13:38:48-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -503,7 +503,7 @@
    "preco": "Consulte no site oficial",
    "gratuito": false,
    "link": "https://www.google.com/search?q=Parecis+SuperAgro+2026",
-   "organizador": "",
+   "organizador": "Sindicato Rural de Campo Novo do Parecis",
    "lat": -13.67,
    "lon": -57.89
   },
@@ -1346,6 +1346,26 @@
    "lon": -51.23
   },
   {
+   "id": "coffee-latam-2026",
+   "nome": "Coffee LATAM 2026",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Café",
+    "Gestão e mercado"
+   ],
+   "inicio": "2026-07-27",
+   "fim": "2026-07-28",
+   "cidade": "Campinas",
+   "uf": "SP",
+   "local": "Royal Palm Hall",
+   "preco": "Inscrição paga (consulte o site)",
+   "gratuito": false,
+   "link": "https://informaconnect.com/coffee-latam/br/",
+   "organizador": "Informa Connect / New Ag International",
+   "lat": -22.9056,
+   "lon": -47.0608
+  },
+  {
    "id": "coopercitrus-expo-2026",
    "nome": "Coopercitrus Expo 2026",
    "tipo": "Feira",
@@ -1842,6 +1862,26 @@
    "lon": -46.63
   },
   {
+   "id": "xiii-congresso-paulista-de-agronomia-2026",
+   "nome": "XIII Congresso Paulista de Agronomia",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Grãos",
+    "Gestão e mercado"
+   ],
+   "inicio": "2026-10-22",
+   "fim": "2026-10-22",
+   "cidade": "Ribeirão Preto",
+   "uf": "SP",
+   "local": "Sede da AEAARP",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://agrolink.com.br/noticias/congresso-paulista-de-agronomia-debate-futuro-do-agro_519694.html",
+   "organizador": "AEASP e AEAARP",
+   "lat": -21.18,
+   "lon": -47.81
+  },
+  {
    "id": "expoagro-alagoas-2026",
    "nome": "Expoagro Alagoas 2026",
    "tipo": "Exposição",
@@ -2324,6 +2364,26 @@
    "lon": -47.06
   },
   {
+   "id": "conecta-agro-2026",
+   "nome": "Conecta Agro 2026 (CCAgro)",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Gestão e mercado",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2026-11-24",
+   "fim": "2026-11-25",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "São Paulo Expo",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://visitesaopaulo.com/evento/conecta-agro-2026-2026/",
+   "organizador": "GPO Conecta",
+   "lat": -23.55,
+   "lon": -46.63
+  },
+  {
    "id": "encontro-brasileiro-de-bubalinocultores-2026",
    "nome": "Encontro Brasileiro de Bubalinocultores 2026",
    "tipo": "Encontro",
@@ -2384,6 +2444,26 @@
    "lon": -53.84
   },
   {
+   "id": "expofeira-santa-margarida-do-sul-2026",
+   "nome": "27ª Expofeira de Santa Margarida do Sul",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Pecuária de corte",
+    "Grãos"
+   ],
+   "inicio": "2026-12-03",
+   "fim": "2026-12-06",
+   "cidade": "Santa Margarida do Sul",
+   "uf": "RS",
+   "local": "Santa Margarida do Sul (RS)",
+   "preco": "Consulte a prefeitura",
+   "gratuito": false,
+   "link": "https://www.coisasdaroca.com/feiras-agropecuarias/expofeira-2026.html",
+   "organizador": "Prefeitura de Santa Margarida do Sul",
+   "lat": -30.34,
+   "lon": -54.08
+  },
+  {
    "id": "agroshow-copagril-2027",
    "nome": "Agroshow Copagril 2027",
    "tipo": "Dia de campo",
@@ -2402,6 +2482,46 @@
    "organizador": "Copagril",
    "lat": -24.56,
    "lon": -54.06
+  },
+  {
+   "id": "dinetec-2027",
+   "nome": "Dinetec 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-01-13",
+   "fim": "2027-01-15",
+   "cidade": "Canarana",
+   "uf": "MT",
+   "local": "Área do Dinetec, junto ao aeroporto Meta – Canarana (MT)",
+   "preco": "Gratuito",
+   "gratuito": true,
+   "link": "https://www.dinetec.com.br/canarana/",
+   "organizador": "Meta Consultoria Agrícola",
+   "lat": -13.55,
+   "lon": -52.27
+  },
+  {
+   "id": "expo-cocari-2027",
+   "nome": "Expo Cocari 2027",
+   "tipo": "Dia de campo",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-01-26",
+   "fim": "2027-01-28",
+   "cidade": "Mandaguari",
+   "uf": "PR",
+   "local": "Campo experimental da Cocari",
+   "preco": "Consulte no site oficial",
+   "gratuito": true,
+   "link": "https://www.cocari.com.br/",
+   "organizador": "Cocari",
+   "lat": -23.55,
+   "lon": -51.67
   },
   {
    "id": "sealba-show-2027",
@@ -2423,6 +2543,28 @@
    "organizador": "Sealba Show",
    "lat": -10.685,
    "lon": -37.425
+  },
+  {
+   "id": "13º-coplacampo-2027",
+   "nome": "13º Coplacampo",
+   "tipo": "Feira",
+   "segmentos": [
+    "Cana e bioenergia",
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-02-01",
+   "fim": "2027-02-28",
+   "cidade": "Piracicaba",
+   "uf": "SP",
+   "local": "Rodovia do Açúcar SP-308, km 157 (Bairro Taquaral)",
+   "preco": "Entrada gratuita com inscrição antecipada",
+   "gratuito": true,
+   "link": "https://www.google.com/search?q=Coplacampo+2027+Piracicaba",
+   "organizador": "Coplacana",
+   "lat": -22.73,
+   "lon": -47.65,
+   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: fevereiro"
   },
   {
    "id": "39º-show-rural-coopavel",
@@ -2548,6 +2690,27 @@
    "organizador": "Cotrijal",
    "lat": -28.46,
    "lon": -52.82
+  },
+  {
+   "id": "expoumuarama-2027",
+   "nome": "ExpoUmuarama 2027",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Pecuária de corte",
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-03-11",
+   "fim": "2027-03-21",
+   "cidade": "Umuarama",
+   "uf": "PR",
+   "local": "Parque de Exposições Dario Pimenta da Nóbrega",
+   "preco": "Ingressos avulsos e passaportes para shows pela Q2 Ingressos",
+   "gratuito": false,
+   "link": "https://q2ingressos.com.br/eventgroup/expo-umuarama-2027",
+   "organizador": "Sociedade Rural de Umuarama",
+   "lat": -23.766,
+   "lon": -53.325
   },
   {
    "id": "24º-congresso-apa-ovos-2027",
@@ -2774,6 +2937,27 @@
    "lon": -47.06
   },
   {
+   "id": "92ª-expozebu-2027",
+   "nome": "92ª ExpoZebu",
+   "tipo": "Exposição",
+   "segmentos": [
+    "Pecuária de corte",
+    "Gestão e mercado"
+   ],
+   "inicio": "2027-04-01",
+   "fim": "2027-05-31",
+   "cidade": "Uberaba",
+   "uf": "MG",
+   "local": "Parque Fernando Costa",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.expozebu.com.br/",
+   "organizador": "ABCZ",
+   "lat": -19.75,
+   "lon": -47.93,
+   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: final de abril e início de maio"
+  },
+  {
    "id": "expogrande-2027",
    "nome": "Expogrande 2027",
    "tipo": "Exposição",
@@ -2894,6 +3078,27 @@
    "lon": -54.66
   },
   {
+   "id": "show-rural-colider-2027",
+   "nome": "Show Rural Colíder 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Pecuária de corte",
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-04-07",
+   "fim": "2027-04-10",
+   "cidade": "Colíder",
+   "uf": "MT",
+   "local": "A confirmar pelo organizador",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.passeios.org/eventos/show-rural-colider-2027/",
+   "organizador": "Sindicato Rural de Colíder",
+   "lat": -10.81,
+   "lon": -55.46
+  },
+  {
    "id": "expolondrina-2027",
    "nome": "ExpoLondrina 2027",
    "tipo": "Exposição",
@@ -2913,6 +3118,25 @@
    "organizador": "Sociedade Rural do Paraná",
    "lat": -23.31,
    "lon": -51.16
+  },
+  {
+   "id": "femaca-2027",
+   "nome": "Femaçã 2027 – Feira Nacional da Maçã",
+   "tipo": "Feira",
+   "segmentos": [
+    "Hortifrúti e flores"
+   ],
+   "inicio": "2027-04-09",
+   "fim": "2027-04-18",
+   "cidade": "Veranópolis",
+   "uf": "RS",
+   "local": "Parque de Exposições José Bin",
+   "preco": "Ingressos a divulgar",
+   "gratuito": false,
+   "link": "https://www.femaca.com.br/",
+   "organizador": "Comissão organizadora da Femaçã",
+   "lat": -28.94,
+   "lon": -51.55
   },
   {
    "id": "favesu-2027",
@@ -2955,6 +3179,26 @@
    "lon": -42.52
   },
   {
+   "id": "parecis-superagro-2027",
+   "nome": "Parecis SuperAgro 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-04-14",
+   "fim": "2027-04-16",
+   "cidade": "Campo Novo do Parecis",
+   "uf": "MT",
+   "local": "A confirmar no site",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.noticiasagricolas.com.br/noticias/agronegocio/419331-definitivamente-somos-um-territorio-de-gigantes-enfatiza-brolio-ao-encerrar-parecis-super-agro-2026-com-anuncio-das-datas-das-proximas-tres-edicoes.html",
+   "organizador": "Sindicato Rural de Campo Novo do Parecis",
+   "lat": -13.67,
+   "lon": -57.89
+  },
+  {
    "id": "norte-show-2027",
    "nome": "Norte Show 2027",
    "tipo": "Feira",
@@ -2973,6 +3217,26 @@
    "organizador": "Acrinorte e Sindicato Rural de Sinop",
    "lat": -11.86,
    "lon": -55.5
+  },
+  {
+   "id": "citagro-2027",
+   "nome": "CITAGRO 2027 – Cúpula da Inovação e Tecnologia do Agro Brasileiro",
+   "tipo": "Encontro",
+   "segmentos": [
+    "Gestão e mercado",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-04-25",
+   "fim": "2027-04-25",
+   "cidade": "Ribeirão Preto",
+   "uf": "SP",
+   "local": "Fazenda Santa Rita, Bonfim Paulista (véspera da Agrishow 2027)",
+   "preco": "Inscrição com o organizador (info@brasilagro.com.br)",
+   "gratuito": false,
+   "link": "https://brasilagro.com.br/documentos/CITAGRO_2027_Apresentacao_Institucional_atualizada.pdf",
+   "organizador": "BrasilAgro",
+   "lat": -21.18,
+   "lon": -47.81
   },
   {
    "id": "agrishow-2027",
@@ -2994,6 +3258,52 @@
    "organizador": "Agrishow",
    "lat": -21.18,
    "lon": -47.81
+  },
+  {
+   "id": "14ª-rondônia-rural-show-internacional-2027",
+   "nome": "14ª Rondônia Rural Show Internacional",
+   "tipo": "Feira",
+   "segmentos": [
+    "Pecuária de corte",
+    "Leite",
+    "Grãos",
+    "Café",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-05-01",
+   "fim": "2027-05-31",
+   "cidade": "Ji-Paraná",
+   "uf": "RO",
+   "local": "Centro Tecnológico Vandeci Rack",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.google.com/search?q=Rond%C3%B4nia+Rural+Show+Internacional+2027",
+   "organizador": "Governo de Rondônia (Seagri)",
+   "lat": -10.88,
+   "lon": -61.95,
+   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: maio"
+  },
+  {
+   "id": "agrotins-2027",
+   "nome": "27ª Agrotins",
+   "tipo": "Feira",
+   "segmentos": [
+    "Grãos",
+    "Pecuária de corte",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-05-01",
+   "fim": "2027-05-31",
+   "cidade": "Palmas",
+   "uf": "TO",
+   "local": "Parque Agrotecnológico Eng. Agrônomo Mauro Mendanha",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://www.google.com/search?q=Agrotins+2027+Palmas",
+   "organizador": "Governo do Tocantins (Seagro)",
+   "lat": -10.18,
+   "lon": -48.33,
+   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: maio"
   },
   {
    "id": "exposoja-2027",
@@ -3054,6 +3364,25 @@
    "organizador": "Sociedade Rural de Maringá",
    "lat": -23.42,
    "lon": -51.94
+  },
+  {
+   "id": "confinar-2027",
+   "nome": "Confinar 2027",
+   "tipo": "Simpósio",
+   "segmentos": [
+    "Pecuária de corte"
+   ],
+   "inicio": "2027-05-11",
+   "fim": "2027-05-12",
+   "cidade": "Campo Grande",
+   "uf": "MS",
+   "local": "Shopping Bosque dos Ipês",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.confinar.net.br/",
+   "organizador": "Confinar",
+   "lat": -20.45,
+   "lon": -54.62
   },
   {
    "id": "copacol-agro-2027",
@@ -3216,6 +3545,27 @@
    "lon": -55.17
   },
   {
+   "id": "zootec-2027",
+   "nome": "Zootec 2027 – Congresso Brasileiro de Zootecnia (30 anos)",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Pecuária de corte",
+    "Leite",
+    "Aves e suínos"
+   ],
+   "inicio": "2027-05-18",
+   "fim": "2027-05-21",
+   "cidade": "Teresina",
+   "uf": "PI",
+   "local": "Centro de Eventos João Claudino Fernandes",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.instagram.com/zootec.oficial/",
+   "organizador": "Zootec",
+   "lat": -5.09,
+   "lon": -42.8
+  },
+  {
    "nome": "Agro Summit 2027",
    "tipo": "Congresso",
    "segmentos": [
@@ -3234,6 +3584,25 @@
    "inicio": "2027-05-25",
    "fim": "2027-05-25",
    "preco": "Pré-venda congressista R$ 395"
+  },
+  {
+   "id": "expocitros-2027",
+   "nome": "52ª Expocitros e Semana da Citricultura 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Hortifrúti e flores"
+   ],
+   "inicio": "2027-06-01",
+   "fim": "2027-06-04",
+   "cidade": "Cordeirópolis",
+   "uf": "SP",
+   "local": "Centro de Citricultura Sylvio Moreira (IAC)",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.coisasdaroca.com/feiras-agropecuarias/expocitros-2027.html",
+   "organizador": "IAC – Centro de Citricultura Sylvio Moreira",
+   "lat": -22.48,
+   "lon": -47.46
   },
   {
    "id": "alimenta-2027",
@@ -3499,6 +3868,47 @@
    "lon": -48.55
   },
   {
+   "id": "agroponte-2027",
+   "nome": "16ª Feira AgroPonte",
+   "tipo": "Feira",
+   "segmentos": [
+    "Pecuária de corte",
+    "Leite",
+    "Máquinas e tecnologia"
+   ],
+   "inicio": "2027-08-11",
+   "fim": "2027-08-15",
+   "cidade": "Criciúma",
+   "uf": "SC",
+   "local": "Pavilhão José Ijair Conti",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://ndmais.com.br/arquitetura-e-decoracao/feiras-casapronta-e-agroponte-ja-tem-datas-definidas-para-2027/",
+   "organizador": "Nossacasa Feiras e Eventos",
+   "lat": -28.68,
+   "lon": -49.37
+  },
+  {
+   "id": "expocachaca-2027",
+   "nome": "36ª ExpoCachaça 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Cana e bioenergia",
+    "Gestão e mercado"
+   ],
+   "inicio": "2027-08-12",
+   "fim": "2027-08-14",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "local": "Center Minas Expo",
+   "preco": "Ingressos no site",
+   "gratuito": false,
+   "link": "https://www.expocachaca.com.br/",
+   "organizador": "ExpoCachaça",
+   "lat": -19.92,
+   "lon": -43.94
+  },
+  {
    "id": "congresso-avag-80-anos-2027",
    "nome": "Congresso AvAg 2027 – 80 Anos da Aviação Agrícola do Brasil",
    "tipo": "Congresso",
@@ -3560,228 +3970,6 @@
    "lon": -47.81
   },
   {
-   "id": "porkexpo-2027",
-   "nome": "PorkExpo 2027",
-   "tipo": "Congresso",
-   "segmentos": [
-    "Aves e suínos",
-    "Gestão e mercado"
-   ],
-   "inicio": "2027-09-22",
-   "fim": "2027-09-23",
-   "cidade": "Foz do Iguaçu",
-   "uf": "PR",
-   "local": "Mabu Resort",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://porkexpo.com.br/",
-   "organizador": "",
-   "lat": -25.52,
-   "lon": -54.59
-  },
-  {
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "id": "fruit-brasil-2027",
-   "nome": "Fruit Brasil 2027 – Feira de Processamento de Frutas e Hortaliças",
-   "tipo": "Feira",
-   "segmentos": [
-    "Hortifrúti e flores",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-11-10",
-   "fim": "2027-11-11",
-   "cidade": "Americana",
-   "uf": "SP",
-   "local": "Av. Nossa Senhora de Fátima, 200",
-   "link": "https://www.fruitbrasil.com.br/",
-   "organizador": "Fruit Brasil",
-   "lat": -22.74,
-   "lon": -47.33
-  },
-  {
-   "id": "expofeira-santa-margarida-do-sul-2026",
-   "nome": "27ª Expofeira de Santa Margarida do Sul",
-   "tipo": "Exposição",
-   "segmentos": [
-    "Pecuária de corte",
-    "Grãos"
-   ],
-   "inicio": "2026-12-03",
-   "fim": "2026-12-06",
-   "cidade": "Santa Margarida do Sul",
-   "uf": "RS",
-   "local": "Santa Margarida do Sul (RS)",
-   "preco": "Consulte a prefeitura",
-   "gratuito": false,
-   "link": "https://www.coisasdaroca.com/feiras-agropecuarias/expofeira-2026.html",
-   "organizador": "Prefeitura de Santa Margarida do Sul",
-   "lat": -30.34,
-   "lon": -54.08
-  },
-  {
-   "id": "expocachaca-2027",
-   "nome": "36ª ExpoCachaça 2027",
-   "tipo": "Feira",
-   "segmentos": [
-    "Cana e bioenergia",
-    "Gestão e mercado"
-   ],
-   "inicio": "2027-08-12",
-   "fim": "2027-08-14",
-   "cidade": "Belo Horizonte",
-   "uf": "MG",
-   "local": "Center Minas Expo",
-   "preco": "Ingressos no site",
-   "gratuito": false,
-   "link": "https://www.expocachaca.com.br/",
-   "organizador": "ExpoCachaça",
-   "lat": -19.92,
-   "lon": -43.94
-  },
-  {
-   "id": "citagro-2027",
-   "nome": "CITAGRO 2027 – Cúpula da Inovação e Tecnologia do Agro Brasileiro",
-   "tipo": "Encontro",
-   "segmentos": [
-    "Gestão e mercado",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-04-25",
-   "fim": "2027-04-25",
-   "cidade": "Ribeirão Preto",
-   "uf": "SP",
-   "local": "Fazenda Santa Rita, Bonfim Paulista (véspera da Agrishow 2027)",
-   "preco": "Inscrição com o organizador (info@brasilagro.com.br)",
-   "gratuito": false,
-   "link": "https://brasilagro.com.br/documentos/CITAGRO_2027_Apresentacao_Institucional_atualizada.pdf",
-   "organizador": "BrasilAgro",
-   "lat": -21.18,
-   "lon": -47.81
-  },
-  {
-   "id": "conecta-agro-2026",
-   "nome": "Conecta Agro 2026 (CCAgro)",
-   "tipo": "Congresso",
-   "segmentos": [
-    "Gestão e mercado",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2026-11-24",
-   "fim": "2026-11-25",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "local": "São Paulo Expo",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://visitesaopaulo.com/evento/conecta-agro-2026-2026/",
-   "organizador": "GPO Conecta",
-   "lat": -23.55,
-   "lon": -46.63
-  },
-  {
-   "id": "xiii-congresso-paulista-de-agronomia-2026",
-   "nome": "XIII Congresso Paulista de Agronomia",
-   "tipo": "Congresso",
-   "segmentos": [
-    "Grãos",
-    "Gestão e mercado"
-   ],
-   "inicio": "2026-10-22",
-   "fim": "2026-10-22",
-   "cidade": "Ribeirão Preto",
-   "uf": "SP",
-   "local": "Sede da AEAARP",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://agrolink.com.br/noticias/congresso-paulista-de-agronomia-debate-futuro-do-agro_519694.html",
-   "organizador": "AEASP e AEAARP",
-   "lat": -21.18,
-   "lon": -47.81
-  },
-  {
-   "id": "dinetec-2027",
-   "nome": "Dinetec 2027",
-   "tipo": "Feira",
-   "segmentos": [
-    "Grãos",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-01-13",
-   "fim": "2027-01-15",
-   "cidade": "Canarana",
-   "uf": "MT",
-   "local": "Área do Dinetec, junto ao aeroporto Meta – Canarana (MT)",
-   "preco": "Gratuito",
-   "gratuito": true,
-   "link": "https://www.dinetec.com.br/canarana/",
-   "organizador": "Meta Consultoria Agrícola",
-   "lat": -13.55,
-   "lon": -52.27
-  },
-  {
-   "id": "zootec-2027",
-   "nome": "Zootec 2027 – Congresso Brasileiro de Zootecnia (30 anos)",
-   "tipo": "Congresso",
-   "segmentos": [
-    "Pecuária de corte",
-    "Leite",
-    "Aves e suínos"
-   ],
-   "inicio": "2027-05-18",
-   "fim": "2027-05-21",
-   "cidade": "Teresina",
-   "uf": "PI",
-   "local": "Centro de Eventos João Claudino Fernandes",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://www.instagram.com/zootec.oficial/",
-   "organizador": "Zootec",
-   "lat": -5.09,
-   "lon": -42.8
-  },
-  {
-   "id": "agroponte-2027",
-   "nome": "16ª Feira AgroPonte",
-   "tipo": "Feira",
-   "segmentos": [
-    "Pecuária de corte",
-    "Leite",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-08-11",
-   "fim": "2027-08-15",
-   "cidade": "Criciúma",
-   "uf": "SC",
-   "local": "Pavilhão José Ijair Conti",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://ndmais.com.br/arquitetura-e-decoracao/feiras-casapronta-e-agroponte-ja-tem-datas-definidas-para-2027/",
-   "organizador": "Nossacasa Feiras e Eventos",
-   "lat": -28.68,
-   "lon": -49.37
-  },
-  {
-   "id": "coffee-latam-2026",
-   "nome": "Coffee LATAM 2026",
-   "tipo": "Congresso",
-   "segmentos": [
-    "Café",
-    "Gestão e mercado"
-   ],
-   "inicio": "2026-07-27",
-   "fim": "2026-07-28",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "local": "Royal Palm Hall",
-   "preco": "Inscrição paga (consulte o site)",
-   "gratuito": false,
-   "link": "https://informaconnect.com/coffee-latam/br/",
-   "organizador": "Informa Connect / New Ag International",
-   "lat": -22.9056,
-   "lon": -47.0608
-  },
-  {
    "id": "coffee-latam-2027",
    "nome": "Coffee LATAM & Cafe World Summit 2027",
    "tipo": "Congresso",
@@ -3802,114 +3990,24 @@
    "lon": -43.1729
   },
   {
-   "id": "expoumuarama-2027",
-   "nome": "ExpoUmuarama 2027",
-   "tipo": "Exposição",
+   "id": "porkexpo-2027",
+   "nome": "PorkExpo 2027",
+   "tipo": "Congresso",
    "segmentos": [
-    "Pecuária de corte",
-    "Grãos",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-03-11",
-   "fim": "2027-03-21",
-   "cidade": "Umuarama",
-   "uf": "PR",
-   "local": "Parque de Exposições Dario Pimenta da Nóbrega",
-   "preco": "Ingressos avulsos e passaportes para shows pela Q2 Ingressos",
-   "gratuito": false,
-   "link": "https://q2ingressos.com.br/eventgroup/expo-umuarama-2027",
-   "organizador": "Sociedade Rural de Umuarama",
-   "lat": -23.766,
-   "lon": -53.325
-  },
-  {
-   "id": "13º-coplacampo-2027",
-   "nome": "13º Coplacampo",
-   "tipo": "Feira",
-   "segmentos": [
-    "Cana e bioenergia",
-    "Grãos",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-02-01",
-   "fim": "2027-02-28",
-   "cidade": "Piracicaba",
-   "uf": "SP",
-   "local": "Rodovia do Açúcar SP-308, km 157 (Bairro Taquaral)",
-   "preco": "Entrada gratuita com inscrição antecipada",
-   "gratuito": true,
-   "link": "https://www.google.com/search?q=Coplacampo+2027+Piracicaba",
-   "organizador": "Coplacana",
-   "lat": -22.73,
-   "lon": -47.65,
-   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: fevereiro"
-  },
-  {
-   "id": "92ª-expozebu-2027",
-   "nome": "92ª ExpoZebu",
-   "tipo": "Exposição",
-   "segmentos": [
-    "Pecuária de corte",
+    "Aves e suínos",
     "Gestão e mercado"
    ],
-   "inicio": "2027-04-01",
-   "fim": "2027-05-31",
-   "cidade": "Uberaba",
-   "uf": "MG",
-   "local": "Parque Fernando Costa",
+   "inicio": "2027-09-22",
+   "fim": "2027-09-23",
+   "cidade": "Foz do Iguaçu",
+   "uf": "PR",
+   "local": "Mabu Resort",
    "preco": "Consulte no site oficial",
    "gratuito": false,
-   "link": "https://www.expozebu.com.br/",
-   "organizador": "ABCZ",
-   "lat": -19.75,
-   "lon": -47.93,
-   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: final de abril e início de maio"
-  },
-  {
-   "id": "agrotins-2027",
-   "nome": "27ª Agrotins",
-   "tipo": "Feira",
-   "segmentos": [
-    "Grãos",
-    "Pecuária de corte",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-05-01",
-   "fim": "2027-05-31",
-   "cidade": "Palmas",
-   "uf": "TO",
-   "local": "Parque Agrotecnológico Eng. Agrônomo Mauro Mendanha",
-   "preco": "Consulte o site oficial",
-   "gratuito": false,
-   "link": "https://www.google.com/search?q=Agrotins+2027+Palmas",
-   "organizador": "Governo do Tocantins (Seagro)",
-   "lat": -10.18,
-   "lon": -48.33,
-   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: maio"
-  },
-  {
-   "id": "14ª-rondônia-rural-show-internacional-2027",
-   "nome": "14ª Rondônia Rural Show Internacional",
-   "tipo": "Feira",
-   "segmentos": [
-    "Pecuária de corte",
-    "Leite",
-    "Grãos",
-    "Café",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-05-01",
-   "fim": "2027-05-31",
-   "cidade": "Ji-Paraná",
-   "uf": "RO",
-   "local": "Centro Tecnológico Vandeci Rack",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://www.google.com/search?q=Rond%C3%B4nia+Rural+Show+Internacional+2027",
-   "organizador": "Governo de Rondônia (Seagri)",
-   "lat": -10.88,
-   "lon": -61.95,
-   "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: maio"
+   "link": "https://porkexpo.com.br/",
+   "organizador": "",
+   "lat": -25.52,
+   "lon": -54.59
   },
   {
    "id": "avesui-2027",
@@ -3954,102 +4052,24 @@
    "dataAprox": "Data de 2027 ainda não divulgada pelo organizador. Edições anteriores: novembro"
   },
   {
-   "id": "confinar-2027",
-   "nome": "Confinar 2027",
-   "tipo": "Simpósio",
-   "segmentos": [
-    "Pecuária de corte"
-   ],
-   "inicio": "2027-05-11",
-   "fim": "2027-05-12",
-   "cidade": "Campo Grande",
-   "uf": "MS",
-   "local": "Shopping Bosque dos Ipês",
    "preco": "Consulte no site oficial",
    "gratuito": false,
-   "link": "https://www.confinar.net.br/",
-   "organizador": "Confinar",
-   "lat": -20.45,
-   "lon": -54.62
-  },
-  {
-   "id": "expocitros-2027",
-   "nome": "52ª Expocitros e Semana da Citricultura 2027",
+   "id": "fruit-brasil-2027",
+   "nome": "Fruit Brasil 2027 – Feira de Processamento de Frutas e Hortaliças",
    "tipo": "Feira",
    "segmentos": [
-    "Hortifrúti e flores"
+    "Hortifrúti e flores",
+    "Máquinas e tecnologia"
    ],
-   "inicio": "2027-06-01",
-   "fim": "2027-06-04",
-   "cidade": "Cordeirópolis",
+   "inicio": "2027-11-10",
+   "fim": "2027-11-11",
+   "cidade": "Americana",
    "uf": "SP",
-   "local": "Centro de Citricultura Sylvio Moreira (IAC)",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://www.coisasdaroca.com/feiras-agropecuarias/expocitros-2027.html",
-   "organizador": "IAC – Centro de Citricultura Sylvio Moreira",
-   "lat": -22.48,
-   "lon": -47.46
-  },
-  {
-   "id": "expo-cocari-2027",
-   "nome": "Expo Cocari 2027",
-   "tipo": "Dia de campo",
-   "segmentos": [
-    "Grãos",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-01-26",
-   "fim": "2027-01-28",
-   "cidade": "Mandaguari",
-   "uf": "PR",
-   "local": "Campo experimental da Cocari",
-   "preco": "Consulte no site oficial",
-   "gratuito": true,
-   "link": "https://www.cocari.com.br/",
-   "organizador": "Cocari",
-   "lat": -23.55,
-   "lon": -51.67
-  },
-  {
-   "id": "show-rural-colider-2027",
-   "nome": "Show Rural Colíder 2027",
-   "tipo": "Feira",
-   "segmentos": [
-    "Pecuária de corte",
-    "Grãos",
-    "Máquinas e tecnologia"
-   ],
-   "inicio": "2027-04-07",
-   "fim": "2027-04-10",
-   "cidade": "Colíder",
-   "uf": "MT",
-   "local": "A confirmar pelo organizador",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
-   "link": "https://www.passeios.org/eventos/show-rural-colider-2027/",
-   "organizador": "Sindicato Rural de Colíder",
-   "lat": -10.81,
-   "lon": -55.46
-  },
-  {
-   "id": "femaca-2027",
-   "nome": "Femaçã 2027 – Feira Nacional da Maçã",
-   "tipo": "Feira",
-   "segmentos": [
-    "Hortifrúti e flores"
-   ],
-   "inicio": "2027-04-09",
-   "fim": "2027-04-18",
-   "cidade": "Veranópolis",
-   "uf": "RS",
-   "local": "Parque de Exposições José Bin",
-   "preco": "Ingressos a divulgar",
-   "gratuito": false,
-   "link": "https://www.femaca.com.br/",
-   "organizador": "Comissão organizadora da Femaçã",
-   "lat": -28.94,
-   "lon": -51.55
+   "local": "Av. Nossa Senhora de Fátima, 200",
+   "link": "https://www.fruitbrasil.com.br/",
+   "organizador": "Fruit Brasil",
+   "lat": -22.74,
+   "lon": -47.33
   }
  ]
 }
