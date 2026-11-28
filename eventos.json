@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-27T13:38:48-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-28T07:37:54-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h37 e às 13h37 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa do agro. Onde o site oficial não foi confirmado, o botão abre uma busca. Confirme sempre antes de se programar."
  },
@@ -3180,7 +3180,7 @@
   },
   {
    "id": "parecis-superagro-2027",
-   "nome": "Parecis SuperAgro 2027",
+   "nome": "Parecis SuperAgro 2027 (edição cancelada)",
    "tipo": "Feira",
    "segmentos": [
     "Grãos",
@@ -3190,10 +3190,10 @@
    "fim": "2027-04-16",
    "cidade": "Campo Novo do Parecis",
    "uf": "MT",
-   "local": "A confirmar no site",
-   "preco": "Consulte o organizador",
+   "local": "Parque de Exposições Odenir Ortolan",
+   "preco": "Edição 2027 cancelada pelo Sindicato Rural de Campo Novo do Parecis (anúncio de out/2026); sem previsão de retomada",
    "gratuito": false,
-   "link": "https://www.noticiasagricolas.com.br/noticias/agronegocio/419331-definitivamente-somos-um-territorio-de-gigantes-enfatiza-brolio-ao-encerrar-parecis-super-agro-2026-com-anuncio-das-datas-das-proximas-tres-edicoes.html",
+   "link": "https://www.nortaomt.com.br/crise-no-agro-leva-ao-cancelamento-da-parecis-superagro-em-mt-e-da-exposul-em-ms-para-2027/",
    "organizador": "Sindicato Rural de Campo Novo do Parecis",
    "lat": -13.67,
    "lon": -57.89
